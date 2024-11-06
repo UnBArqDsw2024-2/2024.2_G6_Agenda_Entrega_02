@@ -1,6 +1,6 @@
 # 📘 Agenda
 
-Repositório utilizado pelo Grupo 6, tema agenda, para realizar a entrega 01 da matéria de Arquitetura e Desenho de Software do período 2024.2.
+Repositório utilizado pelo Grupo 6, tema agenda, para realizar a entrega 02 da matéria de Arquitetura e Desenho de Software do período 2024.2.
 
 ## 📍 Introdução
 
