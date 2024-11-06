@@ -24,7 +24,6 @@
 | 22/1008516  | [Vitor Feijó Leonardo](https://github.com/vitorfleonardo)                              | <img src="https://github.com/vitorfleonardo.png" alt="Foto de Vitor Feijó Leonardo" width=70>            |
 | 20/0049879  | [Yago Milagres Passos](https://github.com/yagompassos)                                 | <img src="https://github.com/yagompassos.png" alt="Foto de Yago Milagres Passos" width=70>               |
 
-
 </center>
 
 ## Sobre
