@@ -48,4 +48,4 @@ Uma agenda digital eficiente pode transformar a organização do dia a dia, prom
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 06/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  | [Vitor Feijó](https://github.com/vitorfleonardo) |
+| `1.0` | 06/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
