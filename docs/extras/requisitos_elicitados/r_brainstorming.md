@@ -2,15 +2,14 @@
 
 ## Introdução
 
-Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e não funcionais identificados durante o processo de brainstorming. 
+Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e não funcionais identificados durante o processo de brainstorming.
 
-**Legenda das Colunas da Tabela de Requisitos**
+## Legenda das Colunas da Tabela de Requisitos
 
 - **Identificador**: Código único para cada requisito, usado para identificação e referência rápida. "RE" significa Requisito Elicitado.
 - **Tipo**: Tipo de requisito. "RF" representa Requisito Funcional (o que o sistema deve fazer) e "RNF" representa Requisito Não Funcional (como o sistema deve se comportar).
 - **Requisito**: Descrição detalhada do que o sistema deve realizar (requisito funcional) ou das características que ele deve possuir (requisito não funcional).
-- **Origem**: Indica a técnica utilizada para elicitar o requisito. 
-
+- **Origem**: Indica a técnica utilizada para elicitar o requisito.
 
 ## Resultados
 
@@ -47,7 +46,7 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 
 A metodologia utilizada para a identificação e especificação dos requisitos foi baseada na técnica de brainstorming. Esta técnica permitiu que a equipe de desenvolvimento compartilhasse ideias livremente, explorando as funcionalidades e características desejáveis em uma agenda online. A aplicação de perguntas direcionadas auxiliou na estruturação do brainstorming, incentivando os participantes a refletirem sobre as funcionalidades essenciais, expectativas dos usuários, frustrações com outras ferramentas, situações de uso e possíveis integrações com tecnologias emergentes.
 
-As respostas coletadas foram analisadas e consolidadas em uma lista de requisitos que foram classificados como funcionais (definindo o que o sistema deve fazer) e não funcionais (definindo como o sistema deve operar). 
+As respostas coletadas foram analisadas e consolidadas em uma lista de requisitos que foram classificados como funcionais (definindo o que o sistema deve fazer) e não funcionais (definindo como o sistema deve operar).
 
 ## Referências
 
