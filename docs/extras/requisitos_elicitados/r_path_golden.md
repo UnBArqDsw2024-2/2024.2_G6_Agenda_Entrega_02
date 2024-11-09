@@ -2,14 +2,14 @@
 
 ## Introdução
 
-Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais durante o processo de Golden Path. 
+Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais durante o processo de Golden Path.
 
-**Legenda das Colunas da Tabela de Requisitos**
+## Legenda das Colunas da Tabela de Requisitos
 
 - **Identificador**: Código único para cada requisito, usado para identificação e referência rápida. "RE" significa Requisito Elicitado.
 - **Tipo**: Tipo de requisito. "RF" representa Requisito Funcional (o que o sistema deve fazer) e "RNF" representa Requisito Não Funcional (como o sistema deve se comportar).
 - **Requisito**: Descrição detalhada do que o sistema deve realizar (requisito funcional) ou das características que ele deve possuir (requisito não funcional).
-- **Origem**: Indica a técnica utilizada para elicitar o requisito. 
+- **Origem**: Indica a técnica utilizada para elicitar o requisito.
 
 ## Resultados
 
