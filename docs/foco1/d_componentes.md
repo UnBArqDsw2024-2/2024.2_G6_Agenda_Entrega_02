@@ -41,4 +41,4 @@ Cada subsistema é projetado para encapsular funcionalidades específicas, promo
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 09/11/2024 | [João Barreto](https://github.com/JoaoBarreto03) |
-| `1.1` | 09/11/2024  | Explicação e construção do Diagrama de Componentes. | [João Barreto](https://github.com/JoaoBarreto03) | | |
+| `1.1` | 09/11/2024  | Explicação e construção do Diagrama de Componentes. | [João Barreto](https://github.com/JoaoBarreto03), [Hugo Melo](https://github.com/melohugo), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | | |
