@@ -34,7 +34,7 @@ Cada subsistema é projetado para encapsular funcionalidades específicas, promo
 
 - Fowler, M. (2003). UML Distilled: Um Guia Rápido para a Linguagem de Modelagem de Objetos Padrão. Addison-Wesley Professional.
 
-- Lucid Software Inc. (s.d.). Lucidchart. Disponível em: "https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml". Acesso em: 09/11/2024
+- Lucid Software Inc. (s.d.). Lucidchart. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml). Acesso em: 09/11/2024
 
 ## Histórico de Versão
 
