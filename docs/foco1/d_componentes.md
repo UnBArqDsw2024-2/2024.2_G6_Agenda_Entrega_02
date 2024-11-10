@@ -10,7 +10,7 @@ O diagrama apresentado aqui representa a arquitetura de um sistema de agendament
 
 ## Resultados
 
-![Diagrama de Componentes](Assets/DiagramaDeComponentes.jpeg)
+![Diagrama de Componentes](DiagramaComponentes.jpg)
 
 O diagrama acima modela um sistema de agendamento, denominado "AgendaTarefa", composto por três subsistemas principais:
 
