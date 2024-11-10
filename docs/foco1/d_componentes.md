@@ -34,7 +34,7 @@ Cada subsistema é projetado para encapsular funcionalidades específicas, promo
 
 - Fowler, M. (2003). UML Distilled: Um Guia Rápido para a Linguagem de Modelagem de Objetos Padrão. Addison-Wesley Professional.
 
-- Lucid Software Inc. (s.d.). Lucidchart. Acesso em https://www.lucidchart.com
+- Lucid Software Inc. (s.d.). Lucidchart. Acesso em (https://www.lucidchart.com)
 
 ## Histórico de Versão
 
