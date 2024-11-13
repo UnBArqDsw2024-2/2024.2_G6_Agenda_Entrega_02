@@ -23,3 +23,4 @@ O propósito do diagrama de classes é representar a estrutura estática do sist
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.1` | 13/11/2024  | Adicionando a Introdução. | [Paulo Borba](https://github.com/paulohborba) |  |  |
