@@ -3,7 +3,7 @@
 
 - [Home](/docs)
 - [Projetos](/docs/Projetos/Projetos.md)
-
+- [Política de commit e branch](./Politica/politicas.md)
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](./Modelagem/2.1.ModelagemEstatica.md)
