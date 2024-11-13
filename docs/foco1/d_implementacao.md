@@ -8,17 +8,15 @@ No UML, os diagramas de implementação, também chamados de diagramas de implan
 
 A modelagem proposta para a solução da Agenda foi a seguinte, exposta na imagem 1:
 
+Diagrama ainda sendo montado: [https://drive.google.com/file/d/16IYjAgeuqAYnLW-eqD_yLIrcdQsypXgS/view?usp=sharing](https://drive.google.com/file/d/16IYjAgeuqAYnLW-eqD_yLIrcdQsypXgS/view?usp=sharing)
 
-Diagrama ainda sendo montado: https://drive.google.com/file/d/16IYjAgeuqAYnLW-eqD_yLIrcdQsypXgS/view?usp=sharing
-
-exemplos: https://www.youtube.com/watch?v=DgERD0HgggQ
+exemplos: [https://www.youtube.com/watch?v=DgERD0HgggQ](https://www.youtube.com/watch?v=DgERD0HgggQ)
 
 ![Diagrama de Implementação](DiagramaImplementacao.jpg)
 
 <div style="text-align: center">
 <p> Imagem 1: Diagrama de Implementação. (Fonte: Yago Passos, 2024).</p>
 </div>
-
 
 ## Breve explicação
 
