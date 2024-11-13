@@ -2,7 +2,9 @@
 
 ## Introdução
 
-(texto da introdução)
+O diagrama de classes é um dos principais artefatos da modelagem de software, utilizado dentro da abordagem de desenvolvimento orientado a objetos. Ele faz parte da UML (Unified Modeling Language), uma linguagem de modelagem padrão que permite visualizar, especificar e documentar os diversos aspectos de um sistema de software.
+
+O propósito do diagrama de classes é representar a estrutura estática do sistema, mostrando as classes envolvidas, seus atributos, métodos e as relações entre elas, como herança, associação, composição e agregação. Ao modelar essas interações, o diagrama de classes fornece uma visão clara e detalhada de como os objetos do sistema se relacionam e colaboram para atender aos requisitos de negócio.
 
 ## Resultados
 
