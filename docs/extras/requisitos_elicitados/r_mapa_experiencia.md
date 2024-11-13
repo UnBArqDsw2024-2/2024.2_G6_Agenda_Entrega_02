@@ -11,7 +11,6 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 - **Requisito**: Descrição detalhada do que o sistema deve realizar (requisito funcional) ou das características que ele deve possuir (requisito não funcional).
 - **Origem**: Indica a técnica utilizada para elicitar o requisito.
 
-
 ## Resultados
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b>  Requisitos elicitados do mapa de experiência.</p></font>
