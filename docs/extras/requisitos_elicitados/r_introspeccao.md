@@ -48,7 +48,7 @@ As respostas geradas na introspecção foram analisadas e consolidadas em uma li
 
 ## Referências
 
-<a>1.</a> Câmara, F. S. da. (2013). Sistema para Gerenciamento de Tarefas com Integração com o Google Calendar. [Dissertação de Mestrado, Pontifícia Universidade Católica do Rio de Janeiro]. Maxwell. https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF
+<a>1.</a> Câmara, F. S. da. (2013). Sistema para Gerenciamento de Tarefas com Integração com o Google Calendar. [Dissertação de Mestrado, Pontifícia Universidade Católica do Rio de Janeiro]. Maxwell. [https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF)
 
 ## Histórico de Versão
 
