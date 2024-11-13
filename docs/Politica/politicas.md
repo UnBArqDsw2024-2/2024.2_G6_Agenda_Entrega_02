@@ -79,7 +79,6 @@ fix: Corrigir erro de login
 Closes #123
 ```
 
-
 ## Co-autores
 
 Este projeto suporta o uso de `Co-authored-by` para atribuir crédito a
@@ -108,7 +107,6 @@ Co-authored-by: Outro Co-autor <outroemail@example.com>
 
 Closes #123
 ```
-
 
 **Integração com Validação de Commits:**
 
@@ -145,7 +143,7 @@ arredondamento.
 Closes #456
 ```
 
-# Política de Branches
+## Política de Branches
 
 Esta política define a estrutura de branches do projeto e como elas devem ser
 utilizadas para organizar o desenvolvimento e garantir a estabilidade do código.
@@ -156,28 +154,51 @@ O projeto utiliza os seguintes tipos de branches:
 
 * **`main`:** A branch principal e estável, representando o estado pronto para
 produção do projeto.  Push direto nesta branch é proibido. Todas as alterações
-devem ser incorporadas através de merge requests.
+devem ser incorporadas através de merge requests. 
+<br>
 
 * **`develop`:**  Uma branch de integração onde as alterações de diferentes
 branches de recurso são mescladas antes de irem para a `main`.  Isso permite
 testes de integração mais completos antes da liberação para produção. Se optar
 por **não** usar a branch `develop`, as branches de artefato/módulo e outras
 serão mescladas diretamente na `main`.
+<br>
 
 * **`artefato/{nome-do-artefato}` ou `modulo/{nome-do-modulo}`:** Branches
 dedicadas ao desenvolvimento de um artefato ou módulo específico.  O nome da
 branch deve ser descritivo e refletir a parte do sistema sendo modificada.
-Exemplos: `artefato/diagrama-de-classes`, `modulo/autenticacao`,
+  * Exemplos: 
+
+```
+`artefato/diagrama-de-classes`; 
+`modulo/autenticacao`;
 `artefato/documentacao-usuario`.
+```
+
+<br>
 
 * **`doc/{nome-da-alteracao-na-documentacao}`:** Branches específicas para
-alterações na documentação. Exemplos: `doc/tutorial-instalacao`,
+alterações na documentação. 
+  * Exemplos: 
+
+```
+`doc/tutorial-instalacao`;
 `doc/atualizacao-readme`.
+```
+
+<br>
 
 * **`infra/{nome-da-tarefa-de-infra}`:** Branches para tarefas relacionadas à
 infraestrutura do projeto, como configuração de CI/CD, scripts, automação, etc.
-Exemplos: `infra/configurar-ci`, `infra/adicionar-linter`,
+  * Exemplos: 
+
+```
+`infra/configurar-ci`;
+`infra/adicionar-linter`;
 `infra/padronizar-commits`.
+```
+
+<br>
 
 ## Fluxo de Trabalho
 
@@ -204,9 +225,14 @@ projeto.
 documentação e infraestrutura devem ser excluídas para manter o repositório
 organizado.
 
+* Obs: Se possível o ideal é sempre manter a sua branch, ou repositório local, atualizada utilizando o comando `git pull nome-da-branch-mais atualizada`
 
 ## Bibliografia
 
 * [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
 * [Semantic Versioning](https://semver.org/)
 
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Hugo Melo](https://github.com/melohugo) |  |  |
+| `1.01` | 13/11/2024  | Acrescentando informações no artefato. | [Paulo Borba](https://github.com/paulohborba) | 13/11/2024 | [Hugo Melo](https://github.com/melohugo) |
