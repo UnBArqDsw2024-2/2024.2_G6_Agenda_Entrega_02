@@ -51,7 +51,7 @@ Aproveitamos estas necessidades dos possíveis steakholders representados pelas 
 
 ## Referências
 
-(link para as referências, livros, artigos, sites)
+<a>1.</a> Voltage Control. (n.d.). *Journey Mapping in Design Thinking: Best Practices & Tools.* Voltage Control. [https://voltagecontrol.com/articles/journey-mapping-in-design-thinking-best-practices-tools/#h-what-is-journey-mapping](https://voltagecontrol.com/articles/journey-mapping-in-design-thinking-best-practices-tools/#h-what-is-journey-mapping)
 
 ## Histórico de Versão
 
