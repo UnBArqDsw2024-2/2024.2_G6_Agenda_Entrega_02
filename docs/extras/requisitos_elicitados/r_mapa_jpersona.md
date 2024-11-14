@@ -48,7 +48,7 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 
 Em sua essência, o mapeamento de jornada é uma estrutura estratégica que captura a história da experiência de um usuário com um produto ou serviço do início ao fim. Esta narrativa não é um mero relato cronológico, mas uma rica tapeçaria tecida a partir das interações, emoções e decisões do usuário em vários pontos de contato. 
 
-Aproveitamos estas necessidades dos possíveis steakholders representados pelas personas e elicitamos os requisitos funcinas e não funcionas na tabela acima.
+Aproveitamos estas necessidades dos possíveis steakholders representados pelas personas e elicitamos os requisitos funcionas e não funcionas na tabela acima.
 
 ## Referências
 
