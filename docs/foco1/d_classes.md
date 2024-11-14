@@ -73,7 +73,6 @@ Por fim, a classe **ConfiguracoesUsuario** está relacionada ao Usuario e armaze
 ## Referências
 
 > <a>1.</a> Fowler, M. (2003). UML Distilled: Um Guia Rápido para a Linguagem de Modelagem de Objetos Padrão. Addison-Wesley Professional.
-
 > <a>2.</a> Lucid Software Inc. (s.d.). Lucidchart. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml). Acesso em: 13/11/2024
 
 ## Histórico de Versão
