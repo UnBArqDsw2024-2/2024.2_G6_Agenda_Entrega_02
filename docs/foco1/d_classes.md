@@ -7,6 +7,7 @@ O diagrama de classes é um dos principais artefatos da modelagem de software, u
 O propósito do diagrama de classes é representar a estrutura estática do sistema, mostrando as classes envolvidas, seus atributos, métodos e as relações entre elas, como herança, associação, composição e agregação. Ao modelar essas interações, o diagrama de classes fornece uma visão clara e detalhada de como os objetos do sistema se relacionam e colaboram para atender aos requisitos de negócio.
 
 ## Resultados
+
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Classes - Agenda</font> <gitbr></p>
 <center>
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embedded/5d7ba6bc-1e93-465d-880e-249fc4ee21b7" id="it4qDd1f4DKh"></iframe></div>
@@ -14,7 +15,7 @@ O propósito do diagrama de classes é representar a estrutura estática do sist
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Gabriel Souza](https://github.com/GabrielMS00) & [Johnny Lopes](https://github.com/JohnnyLopess) & [Julia Silva](https://github.com/Juhvitoria4) & [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
-# Legenda do Diagrama de Classes - Agenda Online
+### Legenda do Diagrama de Classes - Agenda Online
 
 1. **Classes**: Cada retângulo representa uma classe do sistema de agenda online, contendo:
    - **Nome da Classe**: No topo de cada retângulo (ex.: `Usuario`, `Agenda`, `Evento`).
@@ -51,8 +52,8 @@ O propósito do diagrama de classes é representar a estrutura estática do sist
    - **Compartilhamento**: Gerencia as permissões de acesso e edição entre usuários e agendas compartilhadas.
    - **Sincronizacao**: Oferece funcionalidades para sincronizar a agenda com outras plataformas, como Google Calendar e Outlook.
 
-
 ## Breve explicação
+
 A Figura ilustra as classes que serão desenvolvidas neste projeto. No contexto do projeto, temos as seguintes classes principais: **Usuario**, **Agenda**, **Evento**, **Tarefa**, **Categoria**, **Lembrete**, **Compartilhamento** e **Sincronização**. Cada uma dessas classes possui atributos e métodos específicos que definem seu comportamento e funcionalidade dentro do sistema.
 
 A classe **Usuario** é central nesse sistema, pois está relacionada a várias outras classes, indicando as diferentes interações que um usuário pode ter dentro do sistema.
@@ -68,7 +69,6 @@ A classe **Lembrete** também é associada à Tarefa. Isso indica que uma tarefa
 A classe **Sincronização** representa as funcionalidades para sincronizar o sistema com calendários externos, como Google Calendar, Outlook e Apple, proporcionando integração com outras plataformas.
 
 Por fim, a classe **ConfiguracoesUsuario** está relacionada ao Usuario e armazena configurações personalizadas, como notificações e idioma, permitindo que cada usuário personalize a experiência de uso do sistema. 
-
 
 ## Referências
 
