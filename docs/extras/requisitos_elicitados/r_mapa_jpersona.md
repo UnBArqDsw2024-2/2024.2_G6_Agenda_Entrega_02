@@ -40,9 +40,8 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 | RE-023 | RNF | O sistema deve ser compatível com diferentes sistemas operacionais. | Todas |
 | RE-024 | RNF | O sistema deve ser escalável para suportar um número crescente de usuários e eventos. | Todas |
 | RE-025 | RNF | O sistema deve ser estável e confiável, com o mínimo de erros e falhas. | Todas |
-| RE-026 | RNF | O sistema deve ser fácil de manter e atualizar. |  |
-| RE-027 | RNF | O sistema deve ser acessível a pessoas com deficiências. | Todas |
-| RE-028 | RF | O sistema deve permitir a priorização das tarefas. | Paulo |
+| RE-026 | RNF | O sistema deve ser acessível a pessoas com deficiências. | Todas |
+| RE-027 | RF | O sistema deve permitir a priorização das tarefas. | Paulo |
 
 ## Breve explicação
 
