@@ -19,8 +19,10 @@ Para modelar esses diagramas, foram seguidos os seguintes passos:
 Abaixo estão os diagramas de comunicação criados, com suas respectivas legendas para auxiliar na interpretação:
 
 1. **Login/Cadastro**: Este diagrama aborda dois fluxos principais:
-- Quando o usuário realiza login, a tela de login verifica suas credenciais via componente de autenticação, redirecionando-o para a página inicial ao validar os dados.
-- Caso os dados de login não existam, o fluxo se desvia para a tela de cadastro, onde o usuário insere as informações necessárias para criar uma conta.
+    
+    - Quando o usuário realiza login, a tela de login verifica suas credenciais via componente de autenticação, redirecionando-o para a página inicial ao validar os dados.
+    
+    - Caso os dados de login não existam, o fluxo se desvia para a tela de cadastro, onde o usuário insere as informações necessárias para criar uma conta.
 
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Comunicação/Colaboração - Login/Cadastro</font> <gitbr></p>
 <center>
