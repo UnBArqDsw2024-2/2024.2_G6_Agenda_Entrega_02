@@ -1,6 +1,6 @@
 # Diagrama de Atividades
 
-### Introdução
+## Introdução
 
 O Diagrama de Atividades é uma ferramenta essencial na modelagem de sistemas, permitindo representar visualmente o fluxo de trabalho de processos e cenários. Ele detalha a sequência de atividades, as decisões tomadas, os atores envolvidos e o fluxo de informações. Essa representação gráfica facilita a compreensão do comportamento do sistema, melhorando a comunicação entre a equipe de desenvolvimento e os stakeholders. Na aplicação Agenda Online, diversos Diagramas de Atividades serão utilizados para modelar os principais fluxos de interação dos usuários, como criação de eventos, configuração de lembretes, compartilhamento de agendas e gerenciamento de tarefas. Cada diagrama focará em um aspecto específico do sistema, proporcionando uma visão detalhada e completa das funcionalidades da aplicação.
 
