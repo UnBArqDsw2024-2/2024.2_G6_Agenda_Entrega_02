@@ -4,7 +4,16 @@
 
 Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e não funcionais identificados durante o É, não é, faz, não faz.
 
+## Legenda das Colunas da Tabela de Requisitos
+
+- **Identificador**: Código único para cada requisito, usado para identificação e referência rápida. "RE" significa Requisito Elicitado.
+- **Tipo**: Tipo de requisito. "RF" representa Requisito Funcional (o que o sistema deve fazer) e "RNF" representa Requisito Não Funcional (como o sistema deve se comportar).
+- **Requisito**: Descrição detalhada do que o sistema deve realizar (requisito funcional) ou das características que ele deve possuir (requisito não funcional).
+- **Origem**: Indica a técnica utilizada para elicitar o requisito.
+
 ## Resultados
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b>  Requisitos elicitados do É, não é, faz, não faz.</p></font>
 
 | Identificador | Tipo | Requisito                                                                  | Origem                                                            |
 |---------------|------|------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -20,6 +29,8 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 | RE-010       | RF   | O sistema deve oferecer gestão de metas.                                      | [É, não é, faz, não faz](https://github.com/UnBArqDsw2024-2/2024.2_G6_Agenda_Entrega_01/blob/main/docs/Base/designSprint/understand.md)                     |
 | RE-011       | RF   | O sistema deve permitir a categorização.                                      | [É, não é, faz, não faz](https://github.com/UnBArqDsw2024-2/2024.2_G6_Agenda_Entrega_01/blob/main/docs/Base/designSprint/understand.md)                     |
 | RE-012       | RF   | O sistema deve sincronizar com outros apps.                                   | [É, não é, faz, não faz](https://github.com/UnBArqDsw2024-2/2024.2_G6_Agenda_Entrega_01/blob/main/docs/Base/designSprint/understand.md)                     |
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Hugo Queiroz](https://github.com/melohugo), 2024.</p></font>
 
 ## Breve explicação
 
