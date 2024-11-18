@@ -72,8 +72,9 @@ Por fim, a classe **ConfiguracoesUsuario** está relacionada ao Usuario e armaze
 
 ## Referências
 
-> <a>1.</a> Fowler, M. (2003). UML Distilled: Um Guia Rápido para a Linguagem de Modelagem de Objetos Padrão. Addison-Wesley Professional.
-> <a>2.</a> Lucid Software Inc. (s.d.). Lucidchart. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml). Acesso em: 13/11/2024
+> <a>1.</a> Fowler, M. (2003). UML Distilled: Um Guia Rápido para a Linguagem de Modelagem de Objetos Padrão. Addison-Wesley Professional. <br>
+> <a>2.</a> Lucid Software Inc. (s.d.). Lucidchart. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml). Acesso em: 13/11/2024. <br>
+> <a>3.</a> VISUAL PARADIGM. UML Guide. Disponível em: [VISUAL PARADIGM](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/). Acesso em: 13/11/2024. <br>
 
 ## Histórico de Versão
 
@@ -82,3 +83,4 @@ Por fim, a classe **ConfiguracoesUsuario** está relacionada ao Usuario e armaze
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 13/11/2024 | [Johnny da Ponte](https://github.com/JohnnyLopess)   |
 | `1.1` | 13/11/2024  | Adicionando a Introdução. | [Paulo Borba](https://github.com/paulohborba) | 13/11/2024 | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7)   |
 | `1.2` | 13/11/2024  | Adicionando Resultados e breve explicação. |  [Paulo](https://github.com/paulohborba), [Gabriel](https://github.com/GabrielMS00), [Johnny](https://github.com/JohnnyLopess), [Bianca](https://github.com/BiancaPatrocinio7) e [Julia](https://github.com/juhvitoria4) | 13/11/2024 |   |
+| `1.3` | 17/11/2024  | Corrigindo estrutura das referências e adicionando nova referência que foi utilizada durante o desenvolvimento do artefato. | [Gabriel](https://github.com/GabrielMS00) |  |  | 
