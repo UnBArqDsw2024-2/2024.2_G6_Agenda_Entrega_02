@@ -12,7 +12,6 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 - **Persona**: Indica a persona que originou o requisito, refletindo suas necessidades e expectativas.
 - **Origem**: Indica a técnica utilizada para elicitar o requisito (neste caso, Mapa de Jornada da Persona).
 
-
 ## Resultados
 
 | Identificador | Tipo | Requisito                                                                                                                            | Persona                  | Origem                                      |
@@ -45,14 +44,11 @@ Neste artefato, apresenta-se uma tabela que consolida os requisitos funcionais e
 | RE-026          | RNF  | O sistema deve ser acessível a pessoas com deficiências (seguir as diretrizes de acessibilidade WCAG).                                      | Todas                     | Mapa de Jornada da Persona                  |
 | RE-027          | RF   | O sistema deve permitir a priorização das tarefas.                                                                                         | Paulo                     | Mapa de Jornada da Persona                  |
 
-
 ## Breve explicação
 
 O mapeamento da jornada do usuário, técnica utilizada para a elicitação dos requisitos, permitiu visualizar a experiência do usuário com a aplicação, desde o início até o fim. Através da análise das etapas da jornada de cada persona, foram identificados os pontos críticos, as necessidades e as expectativas de cada tipo de usuário.  Esta análise resultou na identificação dos requisitos funcionais e não funcionais apresentados na tabela acima.
 
-
 ## Referências
-
 
 ## Histórico de Versão
 
