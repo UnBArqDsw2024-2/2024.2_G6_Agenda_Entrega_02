@@ -62,7 +62,7 @@ Qualquer commit que introduza uma quebra de compatibilidade **deve** incluir
 migrar. Exemplo:
 
 ```
-feat: Implementar nova API de autenticação
+feat: implementar nova API de autenticação
 
 BREAKING CHANGE: A antiga API de autenticação foi removida. Use a nova API
 descrita na documentação.
@@ -74,7 +74,7 @@ As issues relacionadas podem ser referenciadas no rodapé usando a palavra-chave
 `Closes`, `Fixes` ou `Resolves`, seguida pelo número da issue. Exemplo:
 
 ```
-fix: Corrigir erro de login
+fix: corrigir erro de login
 
 Closes #123
 ```
@@ -98,7 +98,7 @@ co-autores.
 **Exemplo:**
 
 ```
-feat(autenticação): Adicionar suporte a login com GitHub
+feat(autenticação): adicionar suporte a login com GitHub
 
 Implementar o login com GitHub usando a API do GitHub OAuth.
 
@@ -127,7 +127,7 @@ commit.
 **Exemplo 1:**
 
 ```
-feat(autenticação): Adicionar suporte a login com Google
+feat(autenticação): adicionar suporte a login com Google
 
 Implementar o login com Google usando a API do Google OAuth.
 ```
@@ -135,7 +135,7 @@ Implementar o login com Google usando a API do Google OAuth.
 **Exemplo 2:**
 
 ```
-fix: Corrigir erro de cálculo no carrinho de compras
+fix: corrigir erro de cálculo no carrinho de compras
 
 O cálculo do total do carrinho estava incorreto devido a um erro de
 arredondamento.
@@ -236,3 +236,4 @@ organizado.
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Hugo Melo](https://github.com/melohugo) |  |  |
 | `1.01` | 13/11/2024  | Acrescentando informações no artefato. | [Paulo Borba](https://github.com/paulohborba) | 13/11/2024 | [Hugo Melo](https://github.com/melohugo) |
+| `1.01` | 18/11/2024  | Corrigindo exemplos. | [Hugo Melo](https://github.com/melohugo) | | |
