@@ -9,25 +9,25 @@
 (Resultado da modelagem com legendas)
 ### Versão Extendida
 
-![Diagrama de Estados Versão Extendida](docs/foco2/DiagramaEstadosImagens/DiagramaEstados_Extendida.jpg)
+![Diagrama de Estados Versão Extendida](DiagramaEstados_Extendida.jpg)
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
 ### Versão Ampliada 1 (Pate dos Eventos)
 
-![Diagrama de Estados Versão Ampliada 1 (Pate dos Eventos)](docs/foco2/DiagramaEstadosImagens/DiagramaEstados_Eventos.jpg)
+![Diagrama de Estados Versão Ampliada 1 (Pate dos Eventos)](DiagramaEstados_Eventos.jpg)
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
 ### Versão Ampliada 2 (Pate das Tarefas)
 
-![Diagrama de Estados Versão Ampliada 2 (Pate das Tarefas)](docs/foco2/DiagramaEstadosImagens/DiagramaEstados_Tarefas.jpg)
+![Diagrama de Estados Versão Ampliada 2 (Pate das Tarefas)](DiagramaEstados_Tarefas.jpg)
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
 ### Versão Ampliada 3 (Pate do Perfil)
 
-![Diagrama de Estados Versão Ampliada 3 (Pate do Perfil)](docs/foco2/DiagramaEstadosImagens/DiagramaEstados_Perfil.jpg)
+![Diagrama de Estados Versão Ampliada 3 (Pate do Perfil)](DiagramaEstados_Perfil.jpg)
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
