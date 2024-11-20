@@ -23,4 +23,5 @@ Neste documento, apresentamos um diagrama de sequência modelado para descrever 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 19/11/2024 |  [Bianca Patrocínio](https://github.com/BiancaPatrocinio7)   |
-| `1.1` | 09/11/2024  | Adicionando introdução. | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) | | |  
+| `1.1` | 09/11/2024  | Adicionando introdução. | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) | | |   
+
