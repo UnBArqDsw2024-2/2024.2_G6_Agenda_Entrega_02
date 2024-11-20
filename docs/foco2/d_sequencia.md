@@ -24,7 +24,6 @@ O diagrama de sequência, utilizado na UML (Unified Modeling Language), descreve
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/9650c958-45df-4e3f-bf58-e1e6b7f7a289" id="0l0sjicccPD1"></iframe></div>
 </center>
 
-
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Julia Silva](https://github.com/Juhvitoria4) & [Yago Passos](https://github.com/yagompassos), 2024</p></font>
 
 ## Breve explicação
