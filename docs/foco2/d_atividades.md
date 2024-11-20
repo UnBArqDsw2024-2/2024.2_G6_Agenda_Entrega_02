@@ -6,31 +6,21 @@ O Diagrama de Atividades é uma ferramenta essencial na modelagem de sistemas, p
 
 ## Resultados
 
-```plantuml
-@startuml
-start
+<p align="center" > <strong> Versão 1:</Strong> Diagrama de Atividades - Agenda</font> <gitbr></p>
 
-:Usuário acessa a agenda;
+<center>
 
-:Usuário seleciona a data;
+![Diagrama de Atividades](DiagramaDeAtividades.png)
 
-if (Novo evento?) then (Sim)
-  :Criar novo evento;
-else (Não)
-  :Selecionar evento existente;
-endif
+</center>
 
-:Editar detalhes do evento;
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Moura](https://github.com/thegm445), 2024</p></font>
 
-:Salvar evento;
+<p align="center" > <strong> Versão 2:</Strong> Diagrama de Atividades - Agenda</font> <gitbr></p>
 
-:Configurar lembrete (opcional);
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLCDMVTY=/?moveToViewport=-11299,1231,7634,3705&embedId=245797611417" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-:Compartilhar evento (opcional);
-
-stop
-@enduml
-```
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Carlos Eduardo](https://github.com/CADU110) & [Hugo Queiroz](https://github.com/melohugo), 2024</p></font>
 
 ## Explicação
 
@@ -46,6 +36,24 @@ O fluxo do diagrama é representado pelas setas, que indicam a sequência das at
 
 No exemplo acima, o usuário primeiro acessa a agenda e seleciona a data. Depois, ele toma a decisão: criar um novo evento ou selecionar um já existente. Após a decisão, os fluxos convergem para a atividade "Editar detalhes do evento".  As atividades opcionais, "Configurar lembrete" e "Compartilhar evento", são representadas por fluxos alternativos.
 
+Os símbolos utilizados em um diagrama de atividades, como o apresentado, possuem significados específicos para representar diferentes etapas e comportamentos dentro de um fluxo de trabalho. Seguem alguns dos principais:
+
+- Círculo preenchido: Representa o início de um fluxo de atividades.
+
+- Círculo branco com centro preto: Representa o fim de um fluxo de atividades. Pode haver múltiplos pontos de fim em um diagrama, representando diferentes conclusões possíveis.
+
+- Retângulo com cantos arredondados: Representa uma atividade ou ação específica a ser executada.
+
+- Losango: Representa um ponto de decisão ou ramificação condicional. O fluxo segue por diferentes caminhos dependendo da condição avaliada.
+
+- Setas: Representam o fluxo de controle ou a sequência em que as atividades são executadas. Elas conectam os diferentes elementos do diagrama, mostrando a ordem das operações.
+
+- Barras grossas horizontais: Representam bifurcação (divisão do fluxo em caminhos paralelos) e junção (convergência de fluxos paralelos de volta para um único fluxo). A bifurcação indica que as atividades subsequentes podem ser executadas simultaneamente ou em qualquer ordem. A junção indica que todas as atividades que a precedem devem ser concluídas antes de prosseguir.
+
+- Retângulo com a lateral em forma de seta: Representa o envio de um sinal. No exemplo, "Notificar o evento".
+
+- Ampulheta: Representa uma espera ou atraso. Indica que o fluxo de atividades é pausado por um determinado período ou até que uma condição seja atendida.
+
 ## Referências
 
 ## Histórico de Versão
@@ -53,4 +61,5 @@ No exemplo acima, o usuário primeiro acessa a agenda e seleciona a data. Depois
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
-| `1.1`  | 18/11/2024 | Criação da Introdução e Explicação do Diagrama. | [Gabriel Moura](https://github.com/thegm445)     |                |             |
+| `1.1` | 18/11/2024 | Criação da Introdução e Explicação do Diagrama. | [Gabriel Moura](https://github.com/thegm445) | 20/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
+| `1.2` | 20/11/2024 | Adicionando versão 2 do diagrama. | [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo) |  | |
