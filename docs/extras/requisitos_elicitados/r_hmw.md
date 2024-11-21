@@ -31,5 +31,4 @@ A técnica How Might We (HMW) é uma abordagem criativa usada para transformar d
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 20/11/2024 | [Ricardo Augusto](https://github.com/avmricardo) |
 |`1.1` | 20/11/2024 | Adicionando requisitos e tópicos. | [Ricardo Augusto](https://github.com/avmricardo) | | |
 
-
 [hmw]: https://unbarqdsw2024-2.github.io/2024.2_G6_Agenda_Entrega_01/#/Base/designSprint/understand
