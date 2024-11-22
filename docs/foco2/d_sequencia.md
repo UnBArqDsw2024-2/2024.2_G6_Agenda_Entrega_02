@@ -28,15 +28,56 @@ O diagrama de sequência, utilizado na UML (Unified Modeling Language), descreve
 
 ## Breve explicação
 
-(Explicação da metodologia e descrição do resultado obtido na medelagem)
+A construção do diagrama aconteceu, segundo o IBM, na fase de design do projeto, onde diagramas de seqüência explicam como o sistema funciona para realizar as interações. A tabela 1, expôe dados da modelagem do diagrama.
+
+
+| Data       | Autores                                                                 |
+|------------|-------------------------------------------------------------------------|
+| 20/11/2024 | [Bianca Castro](https://github.com/BiancaPatrocinio7), [Julia Silva](https://github.com/Juhvitoria4) e [Yago Passos](https://github.com/yagompassos)  |
+
+<font size="2"><p style="text-align: center">Tabela 1: Dados sobre a modelagem. Autor: [Yago Passos](https://github.com/yagompassos), 2024</p></font>
+
+Na data indicada, o diagrama de sequência foi desenvolvido seguindo os princípios da UML (Unified Modeling Language) para representar as interações entre os objetos do sistema de agenda em diferentes cenários de uso. Foram encontrados 5 objetos que compuseram o diagrama em sua versão final:
+- "Autenticação";
+- "Agenda";
+- "Evento";
+- "Sincornização";
+- "Plataformas".
+
+Desses objetos, traçamos as linhas de vida e então começamos a definir as principais mensagens que seriam trocadas por eles. Mapeamos então, os *gates* e, as mensagens que por eles comunicavam, foram mais tarde especificadas dentro dos fragmentos. 
+
+A tabela 2 expressa quais as mensagens mapeadas e, se estão dentro de um fragmento.
+
+| Mensagem          | Objeto Ator | Objeto Receptor | Tipo de Fragmento |
+|-------------------|-------------|-----------------|-------------------|
+| Realiza cadastro/Login | Usuário  | Autenticação    | N/A  |
+| Selecionar Evento | Autenticação | Agenda          | N/A |
+| Visualizar detalhes do evento  | Agenda     | Evento          | Loop |
+| Retornar detalhes do evento  | Evento     | Agenda          | Loop  |
+| Visualiza a agenda  | Autenticação      | Agenda   | N/A |
+| Listar Eventos | Agenda | Evento     | Loop |
+| Retornar Eventos | Evento | Agenda     | Loop  |
+| Editar evento | Autenticação | Agenda     | N/A  |
+| Alterar evento | Agenda | Evento     | Loop |
+| Confirmar alteração de evento | Evento | Agenda     | Loop |
+| Sincronizar agenda | Agenda | Sincronização     | N/A |
+| Sincronizar com plataformas | Sincronização | Plataformas | Loop |
+| Confirmar sincronização | Plataformas | Sincronização | Loop |
+
+<font size="2"><p style="text-align: center">Tabela 2: Mensagens modeladas no diagrama. Autor: [Yago Passos](https://github.com/yagompassos), 2024</p></font>
+
+Como visto, utilizamos fragmentos de interação do tipo "loop" para indicar operações repetitivas, como listagem de eventos ou sincronização com plataformas externas. A representação gráfica do fluxo de mensagens foi organizada de cima para baixo, indicando a ordem sequencial dos processos e destacando as dependências entre os objetos. Esse diagrama é essencial para validar o comportamento do sistema, identificar pontos de integração e garantir que todos os cenários de uso estejam contemplados no design do software.
 
 ## Referências
 
-- "Diagrama de sequência". *Wikipedia*. Disponível em: [https://pt.wikipedia.org/wiki/Diagrama_de_sequ%C3%AAncia](https://pt.wikipedia.org/wiki/Diagrama_de_sequ%C3%AAncia)
+> "Diagrama de sequência". *Wikipedia*. Disponível em: [Wikipedia](https://pt.wikipedia.org/wiki/Diagrama_de_sequ%C3%AAncia)
+
+> IBM Diagramas de Seqüência, 2024. Disponível em: [IBM Rational Software Modeler](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams)
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 20/11/2024 | [Bianca](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) |  |  |
+| `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) | 21/11/2024 | [Yago Passos](https://github.com/yagompassos)  |
+| `1.2` | 21/11/2024  | Seção de explicação e metodologia | [Yago Passos](https://github.com/yagompassos) |  |   |
