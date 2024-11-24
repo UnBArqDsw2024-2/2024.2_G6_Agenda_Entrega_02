@@ -2,31 +2,16 @@
 
 ## Introdução
 
-(texto da introdução)
+O diagrama de estados é uma ferramenta essencial na modelagem de software, projetada para ilustrar o comportamento dinâmico de sistemas. Ele integra a UML (Unified Modeling Language), uma linguagem padrão de modelagem que possibilita a visualização, definição e documentação de diversos aspectos de um sistema de software.
+
+Seu objetivo principal é representar os diferentes estados que um objeto ou sistema pode assumir durante seu ciclo de vida, além das transições entre esses estados, acionadas por eventos específicos. Esse tipo de diagrama oferece uma compreensão detalhada do comportamento interno do sistema e de como ele responde a estímulos externos, sendo especialmente útil para modelar sistemas reativos ou com fluxos de controle complexos.
 
 ## Resultados
 
 ### Versão Extendida
 
-![Diagrama de Estados Versão Extendida](DiagramaEstados_Extendida.jpg)
-
-<font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
-
-### Versão Ampliada 1 (Pate dos Eventos)
-
-![Diagrama de Estados Versão Ampliada 1 (Pate dos Eventos)](DiagramaEstados_Eventos.jpg)
-
-<font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
-
-### Versão Ampliada 2 (Pate das Tarefas)
-
-![Diagrama de Estados Versão Ampliada 2 (Pate das Tarefas)](DiagramaEstados_Tarefas.jpg)
-
-<font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
-
-### Versão Ampliada 3 (Pate do Perfil)
-
-![Diagrama de Estados Versão Ampliada 3 (Pate do Perfil)](DiagramaEstados_Perfil.jpg)
+<p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Estados - Agenda</font> <gitbr></p>
+<iframe frameborder="0" style="width:100%;height:800px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=diagrama_estados.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1fa0urfy05bsMGvvUzM8FoYJRFKt2y9K8%26export%3Ddownload"></iframe>
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess), [Vitor Feijó](https://github.com/vitorfleonardo) e [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
@@ -54,7 +39,6 @@
 
 ## Breve explicação
 
-(Explicação da metodologia e descrição do resultado obtido na medelagem)
 
 ## Referências
 
@@ -65,5 +49,6 @@
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | [Paulo Borba](https://github.com/paulohborba) |  |
-| `1.1` | 20/11/2024  | Adicionando as Referências e a parte dos Resultados do artefato. | [Paulo Borba](https://github.com/paulohborba) |  |  |
+| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 19/11/2024  | [Paulo Borba](https://github.com/paulohborba) |
+| `1.1` | 20/11/2024  | Adicionando as Referências e a parte dos Resultados do artefato. | [Paulo Borba](https://github.com/paulohborba) | 24/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)  |
+| `1.2` | 24/11/2024  | Adicionando introdução, breve explicação e iframe do diagrama. | [Johnny Lopes](https://github.com/JohnnyLopess) | 24/11/2024 |  [Paulo Borba](https://github.com/paulohborba) |
