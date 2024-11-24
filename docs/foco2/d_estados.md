@@ -38,7 +38,26 @@ Seu objetivo principal é representar os diferentes estados que um objeto ou sis
     Etiquetas nas setas descrevem os eventos que causam a transição de um estado para outro, como "cadastrar()", "salvar", ou "voltar".
 
 ## Breve explicação
+Este diagrama de estados ilustra o comportamento dinâmico do sistema, destacando os diferentes estados possíveis e as transições acionadas por eventos específicos durante a interação do usuário. Aqui estão os principais aspectos do diagrama:
 
+**Estados principais:**
+* **Não Cadastrado:** Representa o estado inicial do usuário antes de efetuar login ou registro.
+* **Autenticado:** O estado do usuário após realizar login com sucesso.
+* **Gerenciando Eventos:** Reflete ações relacionadas a eventos, como criar, editar e compartilhar.
+* **Gerenciando Tarefas:** Estado que cobre a criação, edição e definição de lembretes para tarefas.
+* **Configurando Perfil:** Estado em que o usuário ajusta preferências, notificações e sincronizações.
+
+**Transições:**
+* As setas no diagrama representam as transições entre estados, acionadas por eventos como "cadastrar()", "acessarEventos", "criarEvento()", entre outros.
+* Por exemplo, ao acessar o estado "Gerenciando Eventos", o usuário pode criar ou editar eventos, com ações como "salvar" e "confirmar" registradas.
+
+**Detalhes internos:**
+* Cada estado maior, como "Gerenciando Eventos" ou "Gerenciando Tarefas", é subdividido em estados menores para detalhar o fluxo interno de ações.
+* Isso ajuda a compreender o ciclo de vida de atividades específicas, como o fluxo desde "Criando Evento" até "Visualizando Eventos".
+
+**Ponto inicial e final:**
+* O ponto preenchido representa o início do fluxo.
+* O ponto preenchido com um círculo ao redor indica o término da interação, como no logout.
 
 ## Referências
 
