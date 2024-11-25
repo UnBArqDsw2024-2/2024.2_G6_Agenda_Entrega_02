@@ -106,6 +106,31 @@ Abaixo estão os casos de uso principais para o sistema de agenda:
 
 ---
 
+### Caso de Uso: Buscar Eventos
+
+- **Descrição**: Permite ao usuário localizar eventos cadastrados no sistema por meio de filtros específicos ou palavras-chave.
+- **Ator Principal**: Usuário.
+- **Fluxo Básico**:
+  1. O usuário acessa a funcionalidade de "Buscar Eventos".
+  2. O sistema apresenta uma barra de pesquisa e filtros disponíveis (ex.: data, categoria, palavras-chave).
+  3. O usuário insere um termo de busca ou aplica os filtros desejados.
+  4. O sistema processa a consulta e exibe os eventos correspondentes.
+  5. O usuário seleciona um evento para visualizar os detalhes.
+- **Fluxos Alternativos**:
+  - **Sem eventos cadastrados**:
+    1. Caso nenhum evento seja encontrado, o sistema exibe uma mensagem informando que não há resultados correspondentes e sugere ajustar os critérios de busca.
+    2. O usuário pode optar por limpar os filtros e realizar uma nova busca.
+- **Pré-condições**:
+  - O usuário deve estar autenticado.
+  - O sistema deve conter eventos cadastrados.
+- **Pós-condições**: 
+  - Os eventos correspondentes aos critérios de busca são exibidos.
+  - O usuário pode visualizar os detalhes do evento selecionado.
+
+<font size="2"><p style="text-align: left">Autor: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
+
+---
+
 ## Breve explicação
 
 Os casos de uso descritos fornecem uma visão clara das funcionalidades principais do sistema de agenda. Eles foram elaborados com base em fluxos de trabalho típicos e fluxos alternativos que garantem que o sistema seja robusto e fácil de usar. A metodologia usada para a criação dos casos de uso segue as melhores práticas de desenvolvimento de software, garantindo que todas as possíveis interações com o sistema sejam abordadas.
@@ -120,4 +145,5 @@ Os casos de uso descritos fornecem uma visão clara das funcionalidades principa
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 24/11/2024 |  [Bianca](https://github.com/BiancaPatrocinio7) |
-| `1.0` | 24/11/2024  | Introdução e alguns casos de uso. | [Vitor Feijó](https://github.com/vitorfleonardo) | | |
+| `1.1` | 24/11/2024  | Introdução e alguns casos de uso. | [Vitor Feijó](https://github.com/vitorfleonardo) | 25/11/2024 |[Paulo Borba](https://github.com/paulohborba) |
+| `1.2` | 25/11/2024  | Adicionando caso de uso: buscar eventos. | [Paulo Borba](https://github.com/paulohborba) | | |
