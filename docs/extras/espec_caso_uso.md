@@ -4,16 +4,16 @@
 
 A especificação de casos de uso é uma parte fundamental no processo de modelagem e desenvolvimento de sistemas, pois descreve detalhadamente as interações entre os usuários (ou atores) e o sistema. O objetivo desta documentação é apresentar os principais casos de uso de um sistema de agenda, destacando as funcionalidades que permitem aos usuários interagir de maneira eficiente com a plataforma.
 
-Neste documento, os casos de uso estão organizados de acordo com as ações principais que os usuários podem realizar, como visualizar, cadastrar e compartilhar eventos, além de gerenciar seu login, entro outros. A descrição dos fluxos de interação e os diferentes cenários apresentados nos fluxos alternativos garantem que todas as possíveis interações sejam cobertas, proporcionando uma base sólida para o desenvolvimento e testes do sistema.
+Neste documento, os casos de uso estão organizados de acordo com as ações principais que os usuários podem realizar, como visualizar, cadastrar e compartilhar eventos, além de gerenciar seu login, entre outros. A descrição dos fluxos de interação e os diferentes cenários apresentados nos fluxos alternativos garantem que todas as possíveis interações sejam cobertas, proporcionando uma base sólida para o desenvolvimento e testes do sistema.
 
 Os casos de uso aqui apresentados foram estruturados para atender aos requisitos funcionais do sistema de agenda, levando em consideração as necessidades dos usuários finais, bem como as boas práticas de design e usabilidade. A documentação também busca garantir que as funcionalidades descritas sejam facilmente compreendidas por desenvolvedores, testadores e stakeholders envolvidos no projeto.
-
 
 ## Resultados
 
 Abaixo estão os casos de uso principais para o sistema de agenda:
 
 ### Caso de Uso: Login/Cadastro
+
 - **Descrição**: Permite que o usuário faça login na sua conta existente ou crie uma nova conta.
 - **Ator Principal**: Usuário.
 - **Fluxo Básico**:
@@ -41,6 +41,7 @@ Abaixo estão os casos de uso principais para o sistema de agenda:
 ---
 
 ### Caso de Uso: Visualizar Agenda
+
 - **Descrição**: Permite ao usuário visualizar todos os eventos organizados por dia, semana ou mês.
 - **Ator Principal**: Usuário.
 - **Fluxo Básico**:
@@ -59,6 +60,7 @@ Abaixo estão os casos de uso principais para o sistema de agenda:
 ---
 
 ### Caso de Uso: Compartilhar Evento
+
 - **Descrição**: Permite ao usuário compartilhar um evento específico com outros usuários via e-mail ou link.
 - **Atores**: Usuário, Sistema Externo (ex.: servidor de e-mail).
 - **Fluxo Básico**:
@@ -80,6 +82,7 @@ Abaixo estão os casos de uso principais para o sistema de agenda:
 ---
 
 ### Caso de Uso: Cadastrar Evento
+
 - **Descrição**: Permite ao usuário criar um evento na agenda com informações detalhadas.
 - **Ator Principal**: Usuário.
 - **Fluxo Básico**:
@@ -112,12 +115,9 @@ Os casos de uso descritos fornecem uma visão clara das funcionalidades principa
 > <a>1.</a> "Use Case Modeling" de Kurt Bittner e Ian Spence. Disponível em: [Wikipedia](https://pt.wikipedia.org/wiki/Diagrama_de_sequ%C3%AAncia). <br>
 > <a>2.</a> "Applying Use Case Driven Object Modeling with UML" de Doug Rosenberg e Matt Stephens. Disponível em: [Link](https://pja.mykhi.org/0sem/MAS/books/Addison.Wesley.Applying.Use.Case.Driven.Object.Modeling.pdf). <br>
 
-
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 24/11/2024 |  [Bianca](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 24/11/2024  | Introdução e alguns casos de uso. | [Vitor Feijó](https://github.com/vitorfleonardo) | | |
-
+| `1.0` | 24/11/2024  | Introdução e alguns casos de uso. | [Vitor Feijó](https://github.com/vitorfleonardo) | | |
