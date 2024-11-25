@@ -30,19 +30,15 @@ O diagrama de sequência, utilizado na UML (Unified Modeling Language), descreve
 
 A construção do diagrama aconteceu, segundo o IBM, na fase de design do projeto, onde diagramas de seqüência explicam como o sistema funciona para realizar as interações. A tabela 1, expôe dados da modelagem do diagrama.
 
-
-
 Na data indicada, o diagrama de sequência foi desenvolvido seguindo os princípios da UML (Unified Modeling Language) para representar as interações entre os objetos do sistema de agenda em diferentes cenários de uso. Foram encontrados 5 objetos que compuseram o diagrama em sua versão final:
 
-- "Autenticação";
-- "Agenda";
-- "Evento";
-- "Sincornização";
-- "Plataformas".
-
+- Autenticação
+- Agenda
+- Evento
+- Sincronização
+- Plataformas
 
 Desses objetos, traçamos as linhas de vida e então começamos a definir as principais mensagens que seriam trocadas por eles. Mapeamos então, os *gates* e, as mensagens que por eles comunicavam, foram mais tarde especificadas dentro dos fragmentos. 
-
 
 A tabela 1 expressa quais as mensagens mapeadas e, se estão dentro de um fragmento.
 
@@ -72,11 +68,10 @@ Como visto, utilizamos fragmentos de interação do tipo "loop" para indicar ope
 > <a>2.</a> Lucid Software Inc. (s.d.). Lucidchart. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml). <br>
 > <a>3.</a> IBM Diagramas de Seqüência, 2024. Disponível em: [IBM Rational Software Modeler](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams)<br>
 
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 20/11/2024 | [Bianca](https://github.com/BiancaPatrocinio7) |
-| `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) | 21/11/2024 | [Yago Passos](https://github.com/yagompassos)  |
+| `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) | 21/11/2024 | [Yago Passos](https://github.com/yagompassos) |
 | `1.2` | 21/11/2024  | Seção de explicação e metodologia | [Yago Passos](https://github.com/yagompassos) | 24/11/2024 |   [Bianca](https://github.com/BiancaPatrocinio7) |
