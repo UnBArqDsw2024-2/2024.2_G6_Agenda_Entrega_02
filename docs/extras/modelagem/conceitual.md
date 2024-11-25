@@ -54,7 +54,7 @@ Um diagrama conceitual é uma representação visual de conceitos e suas relaç�
 
 ## Breve explicação
 
-Este Diagrama Entidade-Relacionamento (DER) modela um sistema básico de agenda, representando as entidades principais e seus relacionamentos.
+Este Diagrama Entidade-Relacionamento (DER) modela um sistema de agenda, representando as entidades principais e seus relacionamentos.
 
 **Entidades:**
 
