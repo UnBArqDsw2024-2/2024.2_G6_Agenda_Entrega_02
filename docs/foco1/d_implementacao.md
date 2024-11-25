@@ -64,9 +64,8 @@ Em resumo, o diagrama apresenta uma arquitetura típica de aplicação web em ca
 
 ## Referências
 
-> Rational Software Architect Standard Edition, IBM Documentation. **Diagramas de Implementação**, 2021. Disponível em:[https://www.ibm.com/docs/pt-br/rsas/7.5.0](https://www.ibm.com/docs/pt-br/rsas/7.5.0)
-
-> UML Diagrams. **Deployment Diagrams Overview**, 2021. Disponível em: [https://www.uml-diagrams.org/deployment-diagrams-overview.html](https://www.uml-diagrams.org/deployment-diagrams-overview.html)
+> <a>1.</a> Rational Software Architect Standard Edition, IBM Documentation. **Diagramas de Implementação**, 2021. Disponível em: [IBM Documentation](https://www.ibm.com/docs/pt-br/rsas/7.5.0)<br>
+> <a>2.</a> UML Diagrams. **Deployment Diagrams Overview**, 2021. Disponível em: [Uml Diagrams](https://www.uml-diagrams.org/deployment-diagrams-overview.html)<br>
 
 ## Histórico de Versão
 
