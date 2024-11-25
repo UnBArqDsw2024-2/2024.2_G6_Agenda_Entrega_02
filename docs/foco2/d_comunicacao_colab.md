@@ -29,6 +29,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/logarSistema2.jpg" alt="Diagrama de Login no Sistema">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Login no Sistema (Google ID)
@@ -39,6 +41,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/logarSistema.jpg" alt="Diagrama de Login com Google ID">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -51,6 +55,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/cadastrarSistema.jpg" alt="Diagrama de Cadastro">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Sincronização da Agenda
@@ -61,6 +67,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/SincronizacaoAgenda.jpg" alt="Diagrama de Sincronização da Agenda">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -73,6 +81,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/criarCategoria.jpg" alt="Diagrama de Criar Categoria">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Criar Evento
@@ -83,6 +93,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/criarEvento.jpg" alt="Diagrama de Criar Evento">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -95,6 +107,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/criarTarefa.jpg" alt="Diagrama de Criar Tarefa">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Definir Lembrete
@@ -105,6 +119,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/definirLembrete.jpg" alt="Diagrama de Definir Lembrete">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -117,6 +133,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/concluirTarefa.jpg" alt="Diagrama de Concluir Tarefa">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Compartilhamento de Agenda
@@ -127,6 +145,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/compartAgenda.jpg" alt="Diagrama de Compartilhamento de Agenda">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -139,6 +159,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/editarEvento.jpg" alt="Diagrama de Editar Evento">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Editar Tarefa
@@ -149,6 +171,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/editarTarefa.jpg" alt="Diagrama de Editar Tarefa">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -161,6 +185,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/definirStatus.jpg" alt="Diagrama de Definir Status da Tarefa">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Visualização e Aplicação de Filtros na Agenda
@@ -171,6 +197,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/filtroAgenda.jpg" alt="Diagrama de Filtros">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
@@ -183,6 +211,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <img src="assets/diagrama_comunicacao/enviarConvite.jpg" alt="Diagrama de Enviar Convite">
 </center>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
+
 ---
 
 ### Alterar Configurações do Usuário
@@ -193,6 +223,8 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <center>
 <img src="assets/diagrama_comunicacao/configUsuario.jpg" alt="Diagrama de Alterar Configurações do Usuário">
 </center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 ---
 
