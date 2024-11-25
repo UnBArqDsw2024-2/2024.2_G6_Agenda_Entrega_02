@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 <!-- markdownlint-disable MD041 -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [Home](README.md)
+- [Projetos](./Projeto/Projeto.md)
 - [Política de commit e branch](./Politica/politicas.md)
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
