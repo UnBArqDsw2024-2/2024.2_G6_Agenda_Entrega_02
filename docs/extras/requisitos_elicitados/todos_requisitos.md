@@ -167,7 +167,6 @@
 | RE-157       | RF   | O sistema deve permitir a edição de eventos e tarefas com links para outros aplicativos.                                            | [Personas](./extras/requisitos_elicitados/r_personas.md) |
 | RE-158       | RF   | O sistema deve permitir a definição de prioridades para tarefas e eventos.                                                          | [Personas](./extras/requisitos_elicitados/r_personas.md) |
 
-
 ## Breve explicação
 
 (Explicação da metodologia)
@@ -181,4 +180,3 @@
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
-
