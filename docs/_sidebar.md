@@ -39,8 +39,7 @@
         - [2.5.6.7. Design Principles](./extras/requisitos_elicitados/r_design_principles.md)
         - [2.5.6.8. Golden Path](./extras/requisitos_elicitados/r_path_golden.md)
         - [2.5.6.9. Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)
-        - [2.5.6.10. Success Metrics & Signals](./extras/requisitos_elicitados/r_success_metrics.md)
-        - [2.5.6.11. Requisitos Elicitados](./extras/requisitos_elicitados/todos_requisitos.md)
+        - [2.5.6.10. Requisitos Elicitados](./extras/requisitos_elicitados/todos_requisitos.md)
       - 2.5.7. Modelagem de Dados
         - [2.5.7.1. Modelo Conceitual](./extras/modelagem/conceitual.md)
         - [2.5.7.2. Modelo Lógico](./extras/modelagem/logico.md)
