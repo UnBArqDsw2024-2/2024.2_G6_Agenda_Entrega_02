@@ -40,15 +40,15 @@ O DLD descreve a estrutura das tabelas e seus relacionamentos, com foco nos deta
 
 Tabelas:
 
-- CONTA: Armazena informações sobre os usuários. Cada conta possui um idConta (chave primária), email, senha, nomeUsuario, dataNascimento e um idConfiguracao que a relaciona com suas configurações.
+* CONTA: Armazena informações sobre os usuários. Cada conta possui um idConta (chave primária), email, senha, nomeUsuario, dataNascimento e um idConfiguracao que a relaciona com suas configurações.
 
-- TAREFA: Representa as tarefas da agenda. Cada tarefa tem um idTarefa (chave primária), datas de início e término (dataInicio, dataTermino), horários de início e término (horarioInicio, horarioTermino), um título (tituloTarefa), uma descrição (descricaoTarefa), um tipo (tipoTarefa), uma cor (corTarefa) e um indicador de notificação (notificacao).
+* TAREFA: Representa as tarefas da agenda. Cada tarefa tem um idTarefa (chave primária), datas de início e término (dataInicio, dataTermino), horários de início e término (horarioInicio, horarioTermino), um título (tituloTarefa), uma descrição (descricaoTarefa), um tipo (tipoTarefa), uma cor (corTarefa) e um indicador de notificação (notificacao).
 
-- CONFIGURACAO: Guarda as preferências de cada usuário, como idioma, tema e configurações de notificacoes. Cada configuração tem um idConfiguracao como chave primária.
+* CONFIGURACAO: Guarda as preferências de cada usuário, como idioma, tema e configurações de notificacoes. Cada configuração tem um idConfiguracao como chave primária.
 
-- compartilhamentoAgenda: Representa o compartilhamento de agendas entre usuários. Contém idConta e compartilhamentoAgenda como chaves, relacionando quem compartilha com quem.
+* compartilhamentoAgenda: Representa o compartilhamento de agendas entre usuários. Contém idConta e compartilhamentoAgenda como chaves, relacionando quem compartilha com quem.
 
-- possui: Tabela associativa que representa o relacionamento entre contas e tarefas. Ela possui as chaves estrangeiras idConta e idTarefa, indicando quais tarefas pertencem a qual conta.
+* possui: Tabela associativa que representa o relacionamento entre contas e tarefas. Ela possui as chaves estrangeiras idConta e idTarefa, indicando quais tarefas pertencem a qual conta.
 
 ## Histórico de Versão
 
