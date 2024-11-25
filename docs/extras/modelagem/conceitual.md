@@ -42,10 +42,10 @@ Um diagrama conceitual é uma representação visual de conceitos e suas relaç�
 * Representada por números ou símbolos próximos às linhas de relacionamento.
 * Indica a quantidade de instâncias de uma entidade que podem se relacionar com instâncias de outra entidade.
 * Os tipos mais comuns de cardinalidade são:
-    * **1:1 (Um para Um):** Uma instância de uma entidade se relaciona com apenas uma instância de outra entidade.
-    * **1:N (Um para Muitos):** Uma instância de uma entidade pode se relacionar com várias instâncias de outra entidade.
-    * **N:1 (Muitos para Um):** Várias instâncias de uma entidade podem se relacionar com apenas uma instância de outra entidade.
-    * **N:M (Muitos para Muitos):** Várias instâncias de uma entidade podem se relacionar com várias instâncias de outra entidade.
+  * **1:1 (Um para Um):** Uma instância de uma entidade se relaciona com apenas uma instância de outra entidade.
+  * **1:N (Um para Muitos):** Uma instância de uma entidade pode se relacionar com várias instâncias de outra entidade.
+  * **N:1 (Muitos para Um):** Várias instâncias de uma entidade podem se relacionar com apenas uma instância de outra entidade.
+  * **N:M (Muitos para Muitos):** Várias instâncias de uma entidade podem se relacionar com várias instâncias de outra entidade.
 
 **Atributos Multivalorados:**
 

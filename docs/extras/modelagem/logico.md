@@ -19,17 +19,17 @@ O DLD descreve a estrutura das tabelas e seus relacionamentos, com foco nos deta
 **Tabelas:**
 
 * Representadas por retângulos divididos em três seções:
-    * **Nome da Tabela:** Na parte superior.
-    * **Atributos:** Na seção inferior.
-        * `nomeAtributo`: Nome do atributo/coluna.
-        * `tipoDado`: Tipo de dado do atributo (ex: INT, VARCHAR, DATE).
+  * **Nome da Tabela:** Na parte superior.
+  * **Atributos:** Na seção inferior.
+    * `nomeAtributo`: Nome do atributo/coluna.
+    * `tipoDado`: Tipo de dado do atributo (ex: INT, VARCHAR, DATE).
 
 **Cardinalidade:**
 
 * Indicada nas extremidades das linhas de relacionamento.
-    * **1:1** Um pra um.
-    * **0:n**: Zero ou muitos.
-    * **1:n**: Um ou muitos.
+  * **1:1** Um pra um.
+  * **0:n**: Zero ou muitos.
+  * **1:n**: Um ou muitos.
 
 **Chaves:**
 
@@ -49,8 +49,6 @@ Tabelas:
 - compartilhamentoAgenda: Representa o compartilhamento de agendas entre usuários. Contém idConta e compartilhamentoAgenda como chaves, relacionando quem compartilha com quem.
 
 - possui: Tabela associativa que representa o relacionamento entre contas e tarefas. Ela possui as chaves estrangeiras idConta e idTarefa, indicando quais tarefas pertencem a qual conta.
-
-
 
 ## Histórico de Versão
 
