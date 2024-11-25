@@ -30,17 +30,9 @@ O **diagrama de implantação** é um diagrama de estrutura que mostra a arquite
 
 A modelagem proposta para a solução da Agenda foi a seguinte, exposta na imagem 1:
 
-### Versão01
-
-![Diagrama de Implementação versão 01](DiagramaImplementacao.jpg)
-
-<font size="3"><p style="text-align: center"><b>Autor:</b>[Yago Passos](https://github.com/yagompassos), 2024.</p></font>
-
-### Versão02
-
 ![Diagrama de Implementação versão 02](DiagramaImplementaçãoV2.jpg)
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Carlos Alves](https://github.com/CADU110), [Vitor Feijó](https://github.com/vitorfleonardo) e  [Gabriel Moura Dos Santos](https://github.com/thegm445), 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Imagem 1. Diagrama de implementação. Autor(es):</b>  [Carlos Alves](https://github.com/CADU110), [Vitor Feijó](https://github.com/vitorfleonardo), [Gabriel Moura Dos Santos](https://github.com/thegm445) e [Yago Passos](https://github.com/yagompassos), 2024.</p></font>
 
 ## Breve explicação
 
@@ -72,14 +64,15 @@ Em resumo, o diagrama apresenta uma arquitetura típica de aplicação web em ca
 
 ## Referências
 
-<a id="aa" href="#a">[1]</a> Rational Software Architect Standard Edition, IBM Documentation. **Diagramas de Implementação**, 2021. Disponível em:[https://www.ibm.com/docs/pt-br/rsas/7.5.0](https://www.ibm.com/docs/pt-br/rsas/7.5.0)
+> Rational Software Architect Standard Edition, IBM Documentation. **Diagramas de Implementação**, 2021. Disponível em:[https://www.ibm.com/docs/pt-br/rsas/7.5.0](https://www.ibm.com/docs/pt-br/rsas/7.5.0)
 
-<a id="aa" href="#a">[2]</a> UML Diagrams. **Deployment Diagrams Overview**, 2021. Disponível em: [https://www.uml-diagrams.org/deployment-diagrams-overview.html](https://www.uml-diagrams.org/deployment-diagrams-overview.html)
+> UML Diagrams. **Deployment Diagrams Overview**, 2021. Disponível em: [https://www.uml-diagrams.org/deployment-diagrams-overview.html](https://www.uml-diagrams.org/deployment-diagrams-overview.html)
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 13/11/2024  | [Yago Passos](https://github.com/yagompassos)  |
-| `1.1` | 13/11/2024  | Introdução e diagrama. | [Yago Passos](https://github.com/yagompassos)  |   |   |
-| `1.2` | 13/11/2024  | Implementando versão 02. | [Carlos Alves](https://github.com/CADU110), [Vitor Feijó](https://github.com/vitorfleonardo) e  [Gabriel Moura Dos Santos](https://github.com/thegm445) |   |   |
+| `1.1` | 13/11/2024  | Introdução e início do desenvolvimento do diagrama. | [Yago Passos](https://github.com/yagompassos)  |   |   |
+| `1.2` | 13/11/2024  | Implementando versão 02. | [Carlos Alves](https://github.com/CADU110), [Vitor Feijó](https://github.com/vitorfleonardo) e  [Gabriel Moura Dos Santos](https://github.com/thegm445) | 25/11/2024  |  [Yago Passos](https://github.com/yagompassos)  |
+| `1.3` | 25/11/2024  | Padronização. | [Yago Passos](https://github.com/yagompassos)  |   |   |
