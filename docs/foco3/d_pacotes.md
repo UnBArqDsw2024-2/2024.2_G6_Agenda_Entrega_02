@@ -9,35 +9,49 @@ Eles desempenham um papel essencial em projetos de software, especialmente na mo
 ### Elementos 
 
 - **Pacote** 
+
     - Descrição: Agrupa elementos logicamente relacionados com base em dados, comportamento ou interação do usuário.
+
     - Representação: Uma pasta de arquivo no diagrama.
 
 - **Elemento Empacotável**
+
     - Descrição: Um elemento nomeado que pertence diretamente a um pacote.
+
     - Exemplos: Eventos, componentes, casos de uso e pacotes.
 
 - **Dependência**
+
     - Descrição: Representa como um elemento depende ou influencia outro.
+
     - Tipos:
         - Acesso: Um pacote requer assistência das funções de outro.
         - Importação: A funcionalidade de um pacote é importada para outro.
 
 - **Importação de Elemento**
+
     - Descrição: Relacionamento direcionado entre um espaço de nomes de importação e um elemento empacotável.
+
     - Objetivo: Importar elementos individuais sem torná-los públicos no espaço de nomes.
 
 - **Importação de Pacote**
+
     - Descrição: Relacionamento direcionado entre um espaço de nomes de importação e um pacote importado.
+
     - Objetivo: Adicionar os nomes dos membros do pacote importado ao espaço de nomes do importador.
 
 - **Mesclagem de Pacotes**
+
     - Descrição: Relacionamento direcionado onde o conteúdo de um pacote é estendido pelo conteúdo de outro.
+
     - Objetivo: Combinar dois pacotes em um novo.
 
 - **Notações de Dependência**
 
     - Uso: Elemento requer outro para definição e implementação.
+
     - Abstração: Relaciona elementos que representam o mesmo conceito em níveis de abstração diferentes.
+    
     - Disponibilização: Mostra a implementação de um artefato em um alvo de implementação
 
 ## Resultados
