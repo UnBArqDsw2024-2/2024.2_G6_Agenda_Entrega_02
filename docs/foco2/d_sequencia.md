@@ -19,12 +19,34 @@ O diagrama de sequência, utilizado na UML (Unified Modeling Language), descreve
 
 ## Resultados
 
+### Versão Inicial
+
+Explicação no tópico de [Breve explicação](http://localhost:3000/#/./foco2/d_sequencia?id=breve-explica%c3%a7%c3%a3o):
+
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Sequência - Agenda</font> <gitbr></p>
 <center>
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/9650c958-45df-4e3f-bf58-e1e6b7f7a289" id="0l0sjicccPD1"></iframe></div>
 </center>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Castro](https://github.com/BiancaPatrocinio7) & [Julia Silva](https://github.com/Juhvitoria4) & [Yago Passos](https://github.com/yagompassos), 2024</p></font>
+
+### Diagramas Baseados em Casos de Uso
+
+Explicação na página de [Especificação de Casos de Uso](https://unbarqdsw2024-2.github.io/2024.2_G6_Agenda_Entrega_02/#/./extras/espec_caso_uso):
+
+<p align="center" > <strong> Diagrama 2:</Strong> Diagrama de Sequência - Login/Cadastro </font> <gitbr></p>
+<center>
+<div style="width: 840px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/23042634-02f2-489c-99df-5f1836953d31" id="K7Du_4XURyNP"></iframe></div>
+</center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024</p></font>
+
+<p align="center" > <strong> Diagrama 3:</Strong> Diagrama de Sequência - Cadastro de Evento </font> <gitbr></p>
+<center>
+<div style="width: 840px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/50c78de8-8177-4b28-a2b6-3a1a35577e3f" id="FHEu3T-Uhm-X"></iframe></div>
+</center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024</p></font>
 
 ## Breve explicação
 
