@@ -8,7 +8,7 @@
 
 | Identificador | Tipo | Requisito | Origem |
 |---------------|------|-----------|--------|
-| RE-001 | RF | O sistema deve permitir que os usuários criem, editem e excluam eventos com datas e horários específicos. | [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) |
+| RE-001 | RF | O sistema deve permitir que os usuários criem, editem e excluam eventos com datas e horários específicos. | [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)  |
 | RE-002 | RF | O sistema deve enviar notificações personalizáveis para lembrar os usuários dos compromissos futuros. | [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) |
 | RE-003 | RF | O sistema deve permitir a categorização dos eventos com etiquetas de prioridade, usando cores para distinguir entre compromissos de diferentes naturezas. | [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) |
 | RE-004 | RF | O sistema deve possibilitar o agendamento de eventos recorrentes, como reuniões semanais, sem a necessidade de recriá-los manualmente. | [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) |
@@ -46,7 +46,6 @@
 | RE-036         | RNF  | O sistema deve ter uma interface visualmente agradável, transmitindo profissionalismo e modernidade.                          | [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) |
 | RE-037         | RNF  | O sistema deve focar nos elementos essenciais, evitando sobrecarga visual (minimalismo).                                      | [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) |
 | RE-038         | RNF  | O sistema deve ter um design responsivo que se ajuste automaticamente a diferentes tamanhos de tela.                         | [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) |
-| RE-039       | RF   | O sistema deve funcionar como um calendário.                                  | [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md) |
 | RE-040       | RF   | O sistema deve ser um organizador de tarefas.                                 | [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md) |
 | RE-041       | RF   | O sistema deve gerenciar compromissos.                                        | [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md) |
 | RE-042       | RNF  | O sistema deve ser acessível em qualquer dispositivo.                         | [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md) |
@@ -102,7 +101,6 @@
 | RE-092       | RNF  | O sistema deve facilitar a visualização da disponibilidade de tempo, oferecer flexibilidade para reagendar compromissos e informar a falta de compromissos. | [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md) |
 | RE-093       | RNF  | O sistema deve simplificar o processo de compartilhamento, gerenciamento de permissões e evitar complexidade.             | [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md) |
 | RE-094       | RNF  | O sistema deve facilitar a configuração de lembretes personalizados, evitar excesso de notificações e garantir que os lembretes sejam acionados corretamente. | [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md) |
-| RE-095       | RF   | O sistema deve permitir que os usuários criem, editem e excluam eventos com datas e horários específicos. | [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) |
 | RE-096       | RF   | O sistema deve permitir a configuração de eventos recorrentes (diários, semanais, mensais, anuais). | [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) |
 | RE-097       | RF   | O sistema deve permitir a categorização de eventos (ex: Esporte, pessoal, estudos).             | [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) |
 | RE-098       | RF   | O sistema deve permitir a associação de eventos a clientes específicos.                        | [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) |
