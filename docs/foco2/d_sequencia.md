@@ -50,7 +50,7 @@ Explicação na página de [Especificação de Casos de Uso](https://unbarqdsw20
 
 <p align="center" > <strong> Diagrama 4:</Strong> Diagrama de Sequência - Compartilhamento </font> <gitbr></p>
 <center>
-<div style="width: 840px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/6b48b829-06fe-49e5-bab6-627b4b0b4404" id="FHEu3T-Uhm-X"></iframe></div>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/11c66da3-9aaf-437c-aad0-41efcb73fe28" id="ZcWuoLOcmViW"></iframe></div>
 </center>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Yago Passos](https://github.com/yagompassos), 2024</p></font>
