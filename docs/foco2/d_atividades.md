@@ -10,7 +10,7 @@ O Diagrama de Atividades é uma ferramenta essencial na modelagem de sistemas, p
 
 <center>
 
-![Diagrama de Atividades](DiagramaDeAtividades.png)
+![Diagrama de Atividades](./DiagramaDeAtividades.png)
 
 </center>
 
