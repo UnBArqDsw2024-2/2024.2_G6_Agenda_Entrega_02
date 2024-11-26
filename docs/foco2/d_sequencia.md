@@ -48,6 +48,13 @@ Explicação na página de [Especificação de Casos de Uso](https://unbarqdsw20
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Castro](https://github.com/BiancaPatrocinio7), 2024</p></font>
 
+<p align="center" > <strong> Diagrama 4:</Strong> Diagrama de Sequência - Compartilhamento </font> <gitbr></p>
+<center>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/11c66da3-9aaf-437c-aad0-41efcb73fe28" id="ZcWuoLOcmViW"></iframe></div>
+</center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Yago Passos](https://github.com/yagompassos), 2024</p></font>
+
 ## Breve explicação
 
 A construção do diagrama aconteceu, segundo o IBM, na fase de design do projeto, onde diagramas de seqüência explicam como o sistema funciona para realizar as interações. A tabela 1, expôe dados da modelagem do diagrama.
@@ -97,3 +104,5 @@ Como visto, utilizamos fragmentos de interação do tipo "loop" para indicar ope
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 20/11/2024 | [Bianca](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) | 21/11/2024 | [Yago Passos](https://github.com/yagompassos) |
 | `1.2` | 21/11/2024  | Seção de explicação e metodologia | [Yago Passos](https://github.com/yagompassos) | 24/11/2024 |   [Bianca](https://github.com/BiancaPatrocinio7) |
+| `1.3` | 25/11/2024  | Versões detalhadas do diagrama | [Bianca](https://github.com/BiancaPatrocinio7) | 26/11/2024 |   [Yago Passos](https://github.com/yagompassos) |
+| `1.4` | 26/11/2024  | Diagrama de compartilhamento  | [Yago Passos](https://github.com/yagompassos) |  |  |
