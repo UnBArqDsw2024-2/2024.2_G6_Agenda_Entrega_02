@@ -55,6 +55,12 @@ Explicação na página de [Especificação de Casos de Uso](https://unbarqdsw20
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Yago Passos](https://github.com/yagompassos), 2024</p></font>
 
+<p align="center" > <strong> Diagrama 5:</Strong> Diagrama de Sequência - Visualizar Agenda </font> <gitbr></p>
+<center>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/3e98f2ee-e6ce-4a5b-9a57-e3d1e683acea" id="radvtz2IvKE0"></iframe></div>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Julia Vitoria](https://github.com/Juhvitoria4), 2024</p></font>
+
 ## Breve explicação
 
 A construção do diagrama aconteceu, segundo o IBM, na fase de design do projeto, onde diagramas de seqüência explicam como o sistema funciona para realizar as interações. A tabela 1, expôe dados da modelagem do diagrama.
@@ -105,4 +111,5 @@ Como visto, utilizamos fragmentos de interação do tipo "loop" para indicar ope
 | `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) | 21/11/2024 | [Yago Passos](https://github.com/yagompassos) |
 | `1.2` | 21/11/2024  | Seção de explicação e metodologia | [Yago Passos](https://github.com/yagompassos) | 24/11/2024 |   [Bianca](https://github.com/BiancaPatrocinio7) |
 | `1.3` | 25/11/2024  | Versões detalhadas do diagrama | [Bianca](https://github.com/BiancaPatrocinio7) | 26/11/2024 |   [Yago Passos](https://github.com/yagompassos) |
-| `1.4` | 26/11/2024  | Diagrama de compartilhamento  | [Yago Passos](https://github.com/yagompassos) |  |  |
+| `1.4` | 26/11/2024  | Diagrama de compartilhamento  | [Yago Passos](https://github.com/yagompassos) | 27/11/2024 | [Julia Vitoria](https://github.com/Juhvitoria4) |  
+| `1.5` | 26/11/2024  | Diagrama de visualizar agenda | [Julia Vitoria](https://github.com/Juhvitoria4) |  |  |
