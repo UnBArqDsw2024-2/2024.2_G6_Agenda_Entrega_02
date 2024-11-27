@@ -41,9 +41,13 @@ Eles desempenham um papel essencial em projetos de software, especialmente na mo
 
 ## Resultados
 
-(Resultado da modelagem com legendas)
+<p align="center" > <strong> Versão 1:</Strong> Diagrama de Pacotes - Agenda</font> <gitbr></p>
 
-## Breve explicação
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLAbgimw=/?moveToViewport=-2350,-1530,5995,2910&embedId=839772720130" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Bianca Patrocinio](https://github.com/BiancaPatrocinio7), [Carlos Eduardo](https://github.com/CADU110), [Hugo Queiroz](https://github.com/melohugo), [Julia Vitoria](https://github.com/Juhvitoria4), [Ricardo Augusto](https://github.com/avmricardo), [Vitor Feijó](https://github.com/vitorfleonardo), [Yago Passos](https://github.com/yagompassos) ,2024</p></font>
+
+# Breve explicação
 
 (Explicação da metodologia e descrição do resultado obtido na medelagem)
 
@@ -57,4 +61,5 @@ Eles desempenham um papel essencial em projetos de software, especialmente na mo
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 26/11/2024  | [Yago Passos](https://github.com/yagompassos)  |
-| `1.1` | 26/11/2024  | Seção de introdução | [Yago Passos](https://github.com/yagompassos) |  |  |
+| `1.1` | 26/11/2024  | Seção de introdução | [Yago Passos](https://github.com/yagompassos) | 27/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
+| `1.2` | 27/11/2024  | Adicionando diagrama | [Hugo Queiroz](https://github.com/melohugo) |  |  |
