@@ -15,23 +15,24 @@ Cada caso de uso visa entregar um resultado observável e valioso para os atores
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess) & [João Barreto](https://github.com/JoaoBarreto03) & [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Gabriel Moura](https://github.com/thegm445) & [Gabriel Souza](https://github.com/GabrielMS00) & [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
 
-### Legenda do Diagrama de Casos de Uso- Agenda Online
+### Legenda do Diagrama de Casos de Uso - Agenda Online
 
 1. **Ator (Actor):** Representado por figuras estilizadas (homens-palito), um ator é uma entidade externa que interage com o sistema.
-* * **Usuário:** Pessoa que utiliza o sistema "Agenda Online".
-* * **Serviço de Notificação:** Serviço externo responsável pelo envio de notificações.
-* * **Serviço de Voz:** Serviço externo que suporta comandos de voz.
+
+   - **Usuário:** Pessoa que utiliza o sistema "Agenda Online".
+   - **Serviço de Notificação:** Serviço externo responsável pelo envio de notificações.
+   - **Serviço de Voz:** Serviço externo que suporta comandos de voz.
 
 2. **Sistema (Subject):** Representado pelo retângulo "Agenda Online", delimita o que está dentro do escopo do sistema a ser desenvolvido.
 
-3. **Casos de Uso (Use Cases):** Representados pelas elipses azuis, cada uma define uma funcionalidade do sistema.
-Exemplo: "Fazer Login", "Agendar Eventos", "Receber Notificações".
+3. **Casos de Uso (Use Cases):** Representados pelas elipses azuis, cada uma define uma funcionalidade do sistema.  
+   Exemplo: "Fazer Login", "Agendar Eventos", "Receber Notificações".
 
 4. **Relacionamentos:**
-* * **Associação:** Linhas conectando os atores aos casos de uso, indicando que o ator pode iniciar ou interagir com a funcionalidade.
-* * **Inclusão («include»):** Relacionamento que indica que um caso de uso sempre depende de outro para completar sua funcionalidade.
-* * **Extensão («extend»):** Relacionamento opcional que ocorre somente sob certas condições
 
+   - **Associação:** Linhas conectando os atores aos casos de uso, indicando que o ator pode iniciar ou interagir com a funcionalidade.
+   - **Inclusão («include»):** Relacionamento que indica que um caso de uso sempre depende de outro para completar sua funcionalidade.
+   - **Extensão («extend»):** Relacionamento opcional que ocorre somente sob certas condições.
 
 ## Breve explicação
 
@@ -61,3 +62,4 @@ Por fim, os casos de uso adicionais, como Compartilhar Eventos, Buscar Eventos e
 | `1.1` | 25/11/2024  | Adicionando Introdução no artefato. | [Paulo Borba](https://github.com/paulohborba) | 27/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.3` | 28/11/2024  | Adicionando diagrama e legenda. | [Johnny Lopes](https://github.com/JohnnyLopess) | 28/11/2024 | [Paulo Borba](https://github.com/paulohborba) |
 | `1.4` | 28/11/2024  | Adicionando as outras partes do artefato. | [Paulo Borba](https://github.com/paulohborba) | 28/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.5` | 28/11/2024  | Corrigndo markdownlint. | [Paulo Borba](https://github.com/paulohborba) | 28/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
