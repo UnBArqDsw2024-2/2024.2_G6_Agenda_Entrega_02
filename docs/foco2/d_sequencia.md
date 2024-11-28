@@ -109,7 +109,7 @@ Como visto, utilizamos fragmentos de interação do tipo "loop" para indicar ope
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 20/11/2024 | [Bianca](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 20/11/2024  | Adicionando introdução e arquivo base. | [Bianca](https://github.com/BiancaPatrocinio7) | 21/11/2024 | [Yago Passos](https://github.com/yagompassos) |
-| `1.2` | 21/11/2024  | Seção de explicação e metodologia | [Yago Passos](https://github.com/yagompassos) | 24/11/2024 |   [Bianca](https://github.com/BiancaPatrocinio7) |
-| `1.3` | 25/11/2024  | Versões detalhadas do diagrama | [Bianca](https://github.com/BiancaPatrocinio7) | 26/11/2024 |   [Yago Passos](https://github.com/yagompassos) |
+| `1.2` | 21/11/2024  | Seção de explicação e metodologia | [Yago Passos](https://github.com/yagompassos) | 24/11/2024 |  [Bianca](https://github.com/BiancaPatrocinio7) |
+| `1.3` | 25/11/2024  | Versões detalhadas do diagrama | [Bianca](https://github.com/BiancaPatrocinio7) | 26/11/2024 |  [Yago Passos](https://github.com/yagompassos) |
 | `1.4` | 26/11/2024  | Diagrama de compartilhamento  | [Yago Passos](https://github.com/yagompassos) | 27/11/2024 | [Julia Vitoria](https://github.com/Juhvitoria4) |  
-| `1.5` | 26/11/2024  | Diagrama de visualizar agenda | [Julia Vitoria](https://github.com/Juhvitoria4) |  |  |
+| `1.5` | 26/11/2024  | Diagrama de visualizar agenda | [Julia Vitoria](https://github.com/Juhvitoria4) | 27/11/2024 | [Bianca](https://github.com/BiancaPatrocinio7) |
