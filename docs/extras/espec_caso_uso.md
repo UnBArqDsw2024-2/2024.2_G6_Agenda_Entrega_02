@@ -129,6 +129,33 @@ Abaixo estão os casos de uso principais para o sistema de agenda:
 
 <font size="2"><p style="text-align: left">Autor: [Paulo Borba](https://github.com/paulohborba), 2024</p></font>
 
+### Caso de Uso: Personalizar perfil
+
+- **Descrição**: Permite que o usuário configure as preferências de notificações acessando a aba de personalização do perfil.
+- **Ator Principal**: Usuário.
+- **Fluxo Básico**:
+  1. O usuário acessa a tela de configurações no sistema.
+  2. O sistema apresenta a opção "Personalizar Perfil".
+  3. O usuário seleciona a opção e é redirecionado para a interface de personalização do perfil.
+  4. O usuário navega até a seção de notificações.
+  5. O usuário escolhe os tipos de notificações que deseja receber (ex.: e-mail, SMS, push).
+  6. O usuário define as condições ou eventos que disparam as notificações (ex.: compromissos agendados, alterações em eventos).
+  7. O usuário salva as alterações.
+  8. O sistema armazena as preferências do usuário e confirma a personalização com uma mensagem de sucesso.
+- **Fluxos Alternativos**:
+  - **Configuração incompleta**:
+    1. Caso o usuário não preencha todas as informações obrigatórias, o sistema exibe uma mensagem indicando os campos pendentes.
+    2. O usuário corrige as informações e salva novamente.
+  - **Erro no salvamento**:
+    1. Se ocorrer um erro ao salvar as configurações, o sistema informa o problema.
+    2. O sistema sugere tentar novamente ou procurar suporte.
+- **Pré-condições**: 
+    1. O usuário deve estar autenticado no sistema.
+    2. O sistema deve ter a funcionalidade de notificações ativada.
+- **Pós-condições**: As preferências de notificações do usuário são salvas e serão aplicadas a futuros eventos no sistema.
+
+<font size="2"><p style="text-align: left">Autor: [Johnny Lopes](https://github.com/JohnnyLopess), 2024</p></font>
+
 ---
 
 ## Breve explicação
@@ -146,4 +173,5 @@ Os casos de uso descritos fornecem uma visão clara das funcionalidades principa
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 24/11/2024 |  [Bianca](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 24/11/2024  | Introdução e alguns casos de uso. | [Vitor Feijó](https://github.com/vitorfleonardo) | 25/11/2024 |[Paulo Borba](https://github.com/paulohborba) |
-| `1.2` | 25/11/2024  | Adicionando caso de uso: buscar eventos. | [Paulo Borba](https://github.com/paulohborba) | | |
+| `1.2` | 25/11/2024  | Adicionando caso de uso: buscar eventos. | [Paulo Borba](https://github.com/paulohborba) | 27/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
+| `1.3` | 28/11/2024  | Adicionando caso de uso: Personalizar perfil. | [Johnny Lopes](https://github.com/JohnnyLopess) | 00/00/2024 | |
