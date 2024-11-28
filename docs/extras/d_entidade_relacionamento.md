@@ -1,4 +1,4 @@
-### Diagrama de Entidade e Relacionamento  
+# Diagrama de Entidade e Relacionamento  
 
 ## Introdução  
 O Diagrama de Entidade e Relacionamento (DER) é uma das ferramentas fundamentais para o projeto de banco de dados. Ele permite visualizar e estruturar as informações de forma lógica, facilitando o entendimento e o desenvolvimento de sistemas. Utilizando conceitos como entidades, atributos e relacionamentos, o DER descreve a organização dos dados e a conexão entre eles, sendo essencial para garantir consistência e eficiência no armazenamento e recuperação das informações.  
