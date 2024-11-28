@@ -81,4 +81,3 @@ Este Diagrama Entidade-Relacionamento (DER) modela um sistema de agenda, represe
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 25/11/2024  | Versão inicial do artefato. | [Hugo Queiroz](https://github.com/melohugo) e [João Barreto](https://github.com/JoaoBarreto03) | 27/11/2024 | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 27/11/2024 | Adicionando introdução e referência. | [Bianca Patrocínio](https://github.com/BiancaPatrocinio7)| |  |  
-
