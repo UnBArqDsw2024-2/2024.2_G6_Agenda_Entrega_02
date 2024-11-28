@@ -25,10 +25,9 @@
         - [2.5.1.2. Ata 13/11/2024](./extras/atas_reunioes/ata_13_11_2024.md)
         - [2.5.1.3. Ata 20/11/2024](./extras/atas_reunioes/ata_20_11_2024.md)
         - [2.5.1.4. Ata 27/11/2024](./extras/atas_reunioes/ata_27_11_2024.md)
-      - [2.5.2. Diagrama de Entidade e Relacionamento](./extras/d_entidade_relacionamento.md)
-      - [2.5.3. Especificações de Caso de Uso](./extras/espec_caso_uso.md)
-      - [2.5.4. MoSCoW](./extras/moscow.md)
-      - [2.5.5. NFR Framework](./extras/nfr_framework.md)
+      - [2.5.2. Especificações de Caso de Uso](./extras/espec_caso_uso.md)
+      - [2.5.3. MoSCoW](./extras/moscow.md)
+      - [2.5.4. NFR Framework](./extras/nfr_framework.md)
       - 2.5.6. Requisitos Elicitados
         - [2.5.6.1. Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)
         - [2.5.6.2. É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)
