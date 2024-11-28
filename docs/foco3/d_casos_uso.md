@@ -35,11 +35,23 @@ Exemplo: "Fazer Login", "Agendar Eventos", "Receber Notificações".
 
 ## Breve explicação
 
-(Explicação da metodologia e descrição do resultado obtido na medelagem)
+A figura apresentada ilustra os casos de uso do sistema Agenda Online e descreve as interações principais entre os atores e o sistema. No contexto deste projeto, os seguintes casos de uso são destacados como centrais para a funcionalidade do sistema: Fazer Login, Gerenciar Eventos, Sincronizar Dispositivos, Agendar Eventos, Criar Eventos por Voz, entre outros. Cada caso de uso representa um conjunto de ações que os atores podem realizar para alcançar um objetivo específico.
+
+O ator Usuário é o elemento central no sistema, pois está diretamente relacionado a quase todos os casos de uso. Ele pode realizar operações como personalizar seu perfil, agendar eventos, visualizar o calendário e gerenciar eventos. Além disso, o usuário interage com sistemas externos, como o Serviço de Notificação e o Serviço de Voz, para funcionalidades adicionais.
+
+O Serviço de Notificação está associado a dois casos de uso principais: Receber Notificações e Gerar Notificações. Essa integração permite que o sistema informe o usuário sobre eventos futuros ou alterações importantes, garantindo a comunicação eficiente.
+
+O Serviço de Voz está vinculado ao caso de uso Criar Eventos por Voz, que representa a funcionalidade de reconhecimento de comandos de voz para criar eventos no sistema. Essa associação permite maior acessibilidade e conveniência para o usuário.
+
+Os casos de uso Gerenciar Eventos e Sincronizar Dispositivos são extensões importantes da funcionalidade central do sistema. Gerenciar Eventos inclui ações como categorizar eventos e verificar conflitos, enquanto Sincronizar Dispositivos permite a integração com outros dispositivos e plataformas externas.
+
+Por fim, os casos de uso adicionais, como Compartilhar Eventos, Buscar Eventos e Personalizar Perfil, enriquecem a experiência do usuário, proporcionando maior controle, organização e colaboração dentro do sistema. Essas funcionalidades, combinadas, tornam a Agenda Online uma solução robusta e abrangente para gerenciamento de tempo e tarefas.
 
 ## Referências
 
-(link para as referências, livros, artigos, sites)
+> <a>1.</a> UML Diagrams. **Use Case Diagrams**. Disponível em: [UML Use Case Diagrams](https://www.uml-diagrams.org/use-case-diagrams.html)  Acesso em: 24/11/2024. <br>
+> <a>2.</a> Lucid Software Inc. (s.d.). Lucidchart. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml#:~:text=um%20diagrama%20UML-,O%20que%20%C3%A9%20diagrama%20de%20caso%20de%20uso%3F,de%20s%C3%ADmbolos%20e%20conectores%20especializados.). Acesso em: 24/11/2024. <br>
+
 
 ## Histórico de Versão
 
@@ -47,4 +59,5 @@ Exemplo: "Fazer Login", "Agendar Eventos", "Receber Notificações".
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 25/11/2024 | [Paulo Borba](https://github.com/paulohborba) |
 | `1.1` | 25/11/2024  | Adicionando Introdução no artefato. | [Paulo Borba](https://github.com/paulohborba) | 27/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
-| `1.3` | 28/11/2024  | Adicionando diagrama e legenda. | [Johnny Lopes](https://github.com/JohnnyLopess) | 00/00/2024 |  |
+| `1.3` | 28/11/2024  | Adicionando diagrama e legenda. | [Johnny Lopes](https://github.com/JohnnyLopess) | 28/11/2024 | [Paulo Borba](https://github.com/paulohborba) |
+| `1.4` | 28/11/2024  | Adicionando as outras partes do artefato. | [Paulo Borba](https://github.com/paulohborba) | 28/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess) |
