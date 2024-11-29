@@ -10,7 +10,15 @@ O diagrama apresentado aqui representa a arquitetura de um sistema de agendament
 
 ## Resultados
 
+<p align="center"><strong>Diagrama 1:</strong> Diagrama de Componentes</p>
+
+<center>
+
 ![Diagrama de Componentes](DiagramaComponentes.jpg)
+
+</center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [João Barreto](https://github.com/JoaoBarreto03), [Hugo Melo](https://github.com/melohugo), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), 2024</p></font>
 
 O diagrama acima modela um sistema de agendamento, denominado "AgendaTarefa", composto por três subsistemas principais:
 
@@ -42,3 +50,4 @@ Cada subsistema é projetado para encapsular funcionalidades específicas, promo
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 09/11/2024 | [João Barreto](https://github.com/JoaoBarreto03) |
 | `1.1` | 09/11/2024  | Explicação e construção do Diagrama de Componentes. | [João Barreto](https://github.com/JoaoBarreto03), [Hugo Melo](https://github.com/melohugo), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | | |
+| `1.2` | 28/11/2024  | Corrigindo caminhos das imagens. | [João Barreto](https://github.com/JoaoBarreto03) | | |
