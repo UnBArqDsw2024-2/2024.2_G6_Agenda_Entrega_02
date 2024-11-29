@@ -6,8 +6,8 @@ Este documento consolida os requisitos funcionais e não funcionais (RNF) levant
 
 ## Resultados
 
-|   Identificador |    Tipo   |    Requisito    |  Origem    |
-|---------------|------|-----------|--------|
+|   Identificador |    Tipo   |    Requisito    |  Origem    | Prioridade |
+|---------------|------|-----------|--------|-----------|
 |   RE-001    |    RF    | O sistema deve permitir que os usuários criem, editem e excluam eventos com datas e horários específicos. |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) |
 |   RE-002    |    RF    | O sistema deve permitir a configuração e envio de notificações customizáveis para eventos e tarefas, com opções de escolha de canal (e-mail, aplicativo), tempo de antecedência e tipo de alerta (som, vibração), além de permitir a configuração de notificações de backup.  |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) , [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md) , [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) , [Personas](./extras/requisitos_elicitados/r_personas.md)    |
 |   RE-003    |    RF    | O sistema deve permitir que os usuários categorizem eventos e tarefas utilizando etiquetas personalizadas, com possibilidade de uso de cores para diferenciação visual.   |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md), [Personas](./extras/requisitos_elicitados/r_personas.md)    |
