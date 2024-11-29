@@ -55,11 +55,13 @@ Eles desempenham um papel essencial em projetos de software, especialmente na mo
 
 <center>
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLAbgimw=/?moveToViewport=-1821,-968,4983,2768&embedId=424919687780" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+![Diagrama de pacotes versão 2](../foco3/assets/diagrama_pacotes_v2.png)
 
 </center>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
+
+[Link para o miro.](https://miro.com/app/board/uXjVLAbgimw=/)
 
 ## Breve explicação
 
@@ -90,7 +92,7 @@ Comunicação e solicitações de informações externas, seja via persistência
 
 - repository/impl: Implementação das interfaces do repository da camada de aplicação, utilizando as anotações de persistência de dados.;
 - entity: Classes das tabelas na base de dados utilizando anotações de persistência no BD;
-- config: Classe para configuração de beans (caso seja utilizado Java).
+- config: Classe para configuração de beans (caso seja utilizado Java), ou outras estruturas do framework utilizado.
 - restUtil: Classe/pacote para implementar métodos para poder realizar chamadas de endpoints, caso seja necessário acessar microserviços diferentes ou fazer chamadas assíncronas. Apenas implementação dos métdos, suas chamadas devem ficam em implementações das interfaces de services.
 
 ## Referências
