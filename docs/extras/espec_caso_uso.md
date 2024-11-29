@@ -120,4 +120,4 @@ Os casos de uso descritos fornecem uma visão clara das funcionalidades principa
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 24/11/2024 |  [Bianca](https://github.com/BiancaPatrocinio7) |
-| `1.0` | 24/11/2024  | Introdução e alguns casos de uso. | [Vitor Feijó](https://github.com/vitorfleonardo) | | |
+| `1.0` | 24/11/2024  | Introdução e alguns casos de uso. | [Bianca](https://github.com/BiancaPatrocinio7) | | |
