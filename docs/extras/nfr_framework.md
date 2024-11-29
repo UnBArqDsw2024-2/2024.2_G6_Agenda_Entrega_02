@@ -6,7 +6,7 @@ Este documento apresenta o *NFR Framework* para a aplicação de agenda online, 
 
 ## Resultados
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLFaViDo=/?moveToViewport=-1737,-531,3653,1773&embedId=497138211223" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVLFaViDo=/?pres=1&frameId=0&embedId=497558698338" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Breve explicação
 
@@ -16,9 +16,6 @@ Cada ramo do diagrama NFR representa um softgoal principal (ex: Usabilidade, Seg
 As linhas entre os nós representam os relacionamentos, indicando se uma operacionalização auxilia (+), prejudica (-) ou é essencial para o alcance do softgoal. O framework demonstra como estes requisitos não funcionais são interdependentes e como sua implementação precisa ser cuidadosamente considerada para garantir uma boa experiência de usuário e um sistema estável.
 
 ## Referências
-
-- [OMG Unified Modeling Language (OMG UML), Superstructure Version 2.5](https://www.omg.org/spec/UML/2.5/Superstructure/PDF/)
-- [Padrões de Engenharia de Software](https://pt.wikipedia.org/wiki/Engenharia_de_software) (Inclua aqui as referências específicas usadas para a criação do framework)
 
 ## Histórico de Versão
 
