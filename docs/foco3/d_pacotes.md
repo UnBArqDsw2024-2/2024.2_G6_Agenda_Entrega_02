@@ -49,7 +49,7 @@ Eles desempenham um papel essencial em projetos de software, especialmente na mo
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Hugo](https://github.com/melohugo), [Ricardo](https://github.com/avmricardo), [Bianca](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo), [Julia](https://github.com/juhvitoria4), [Yago](https://github.com/yagompassos)   , 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Carlos Alves](https://github.com/CADU110), [Hugo](https://github.com/melohugo), [Ricardo](https://github.com/avmricardo), [Bianca](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo), [Julia](https://github.com/juhvitoria4), [Yago](https://github.com/yagompassos)   , 2024</p></font>
 
 <p align="center" > <strong> Versão 2:</Strong> Diagrama de Pacotes - Agenda</font> <gitbr></p>
 
@@ -107,4 +107,4 @@ Comunicação e solicitações de informações externas, seja via persistência
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 26/11/2024  | [Yago Passos](https://github.com/yagompassos)  |
 | `1.1` | 26/11/2024  | Seção de introdução | [Yago Passos](https://github.com/yagompassos) | 28/11/2024 | [Ricardo Augusto](https://github.com/avmricardo) |
-| `1.2` | 28/11/2024 | Adicionando resultados | [Ricardo Augusto](https://github.com/avmricardo) | | |
+| `1.2` | 28/11/2024 | Adicionando resultados | [Ricardo Augusto](https://github.com/avmricardo) | 29/11/2024 | [Carlos Alves](https://github.com/CADU110)|
