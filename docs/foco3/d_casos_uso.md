@@ -10,7 +10,7 @@ Cada caso de uso visa entregar um resultado observável e valioso para os atores
 
 <p align="center" > <strong> Diagrama 1:</Strong> Diagrama de Casos de Uso - Agenda</font> <gitbr></p>
 <center>
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/e74ab12b-41e3-4d06-8b10-4f07ba55c5dc" id="XAvvh5DVNHr1"></iframe></div>
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/65412235-d362-4816-906a-61c2cee31650" id="fxBuF6DhQ4pA"></iframe>
 </center>
 
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Johnny Lopes](https://github.com/JohnnyLopess) & [João Barreto](https://github.com/JoaoBarreto03) & [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Gabriel Moura](https://github.com/thegm445) & [Gabriel Souza](https://github.com/GabrielMS00) & [Paulo Borba](https://github.com/paulohborba), 2024.</p></font>
@@ -62,3 +62,4 @@ Por fim, os casos de uso adicionais, como Compartilhar Eventos, Buscar Eventos e
 | `1.3`  | 28/11/2024 | Adicionando diagrama e legenda.    | [Johnny Lopes](https://github.com/JohnnyLopess)    | 28/11/2024      | [Paulo Borba](https://github.com/paulohborba) |
 | `1.4`  | 28/11/2024 | Adicionando as outras partes do artefato. | [Paulo Borba](https://github.com/paulohborba) | 28/11/2024      | [Johnny Lopes](https://github.com/JohnnyLopess) |
 | `1.5`  | 28/11/2024 | Corrigindo markdownlint.           | [Paulo Borba](https://github.com/paulohborba)       | 28/11/2024      | [Johnny Lopes](https://github.com/JohnnyLopess) |
+| `1.6`  | 28/11/2024 | Corrigindo o link do lucid chart.           | [Paulo Borba](https://github.com/paulohborba)       | 28/11/2024      | [Johnny Lopes](https://github.com/JohnnyLopess) |
