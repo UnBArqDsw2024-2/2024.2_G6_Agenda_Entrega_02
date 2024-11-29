@@ -6,7 +6,7 @@
 
 ## Resultados
 
-(Resultado da tecnica com legendas)
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLFaViDo=/?moveToViewport=-1737,-531,3653,1773&embedId=497138211223" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Breve explicação
 

@@ -229,11 +229,11 @@ organizado.
 
 ## Bibliografia
 
-* [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
-* [Semantic Versioning](https://semver.org/)
+> [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+> [Semantic Versioning](https://semver.org/)
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Hugo Melo](https://github.com/melohugo) |  |  |
+| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Hugo Melo](https://github.com/melohugo) | 29/11/2024 | [Carlos Alves](https://github.com/CADU110) |
 | `1.01` | 13/11/2024  | Acrescentando informações no artefato. | [Paulo Borba](https://github.com/paulohborba) | 13/11/2024 | [Hugo Melo](https://github.com/melohugo) |
-| `1.01` | 18/11/2024  | Corrigindo exemplos. | [Hugo Melo](https://github.com/melohugo) | | |
+| `1.01` | 18/11/2024  | Corrigindo exemplos. | [Hugo Melo](https://github.com/melohugo) |29/11/2024 | [Carlos Alves](https://github.com/CADU110) |
