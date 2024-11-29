@@ -28,7 +28,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/logarSistema2.jpg" alt="Diagrama de Login no Sistema">
+![Diagrama de Logar no Sistema](assets/diagrama_comunicacao/logarSistema2.jpg)
 
 </center>
 
@@ -44,7 +44,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/logarSistema.jpg" alt="Diagrama de Login com Google ID">
+![Diagrama de logar com o Google](assets/diagrama_comunicacao/logarSistema.jpg)
 
 </center>
 
@@ -60,7 +60,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/cadastrarSistema.jpg" alt="Diagrama de Cadastro">
+![Diagrama de Cadastrar Sistema](assets/diagrama_comunicacao/cadastrarSistema.jpg)
 
 </center>
 
@@ -76,7 +76,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/SincronizacaoAgenda.jpg" alt="Diagrama de Sincronização da Agenda">
+![Diagrama de Sincronização da Agenda](assets/diagrama_comunicacao/SincronizacaoAgenda.jpg)
 
 </center>
 
@@ -92,7 +92,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/criarCategoria.jpg" alt="Diagrama de Criar Categoria">
+![Diagrama de Criação de Categoria](assets/diagrama_comunicacao/criarCategoria.jpg)
 
 </center>
 
@@ -108,7 +108,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/criarEvento.jpg" alt="Diagrama de Criar Evento">
+![Diagrama de Criar Evento](assets/diagrama_comunicacao/criarEvento.jpg)
 
 </center>
 
@@ -124,7 +124,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/criarTarefa.jpg" alt="Diagrama de Criar Tarefa">
+![Diagrama de Criar Tarefa](assets/diagrama_comunicacao/criarTarefa.jpg)
 
 </center>
 
@@ -140,7 +140,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/definirLembrete.jpg" alt="Diagrama de Definir Lembrete">
+![Diagrama de Definir Lembrete](assets/diagrama_comunicacao/definirLembrete.jpg)
 
 </center>
 
@@ -155,7 +155,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 <p align="center"><strong>Diagrama 9:</strong> Diagrama de Comunicação/Colaboração - Concluir Tarefa</p>
 <center>
 
-<img src="assets/diagrama_comunicacao/concluirTarefa.jpg" alt="Diagrama de Concluir Tarefa">
+![Diagrama de Concluir Tarefa](assets/diagrama_comunicacao/concluirTarefa.jpg)
 
 </center>
 
@@ -171,7 +171,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/compartAgenda.jpg" alt="Diagrama de Compartilhamento de Agenda">
+![Diagrama de Compartilhamento da Agenda](assets/diagrama_comunicacao/compartAgenda.jpg)
 
 </center>
 
@@ -187,7 +187,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/editarEvento.jpg" alt="Diagrama de Editar Evento">
+![Diagrama de Editar Evento](assets/diagrama_comunicacao/editarEvento.jpg)
 
 </center>
 
@@ -203,7 +203,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/editarTarefa.jpg" alt="Diagrama de Editar Tarefa">
+![Diagrama de Editar Tarefa](assets/diagrama_comunicacao/editarTarefa.jpg)
 
 </center>
 
@@ -219,7 +219,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/definirStatus.jpg" alt="Diagrama de Definir Status da Tarefa">
+![Diagrama de Definir Status](assets/diagrama_comunicacao/definirStatus.jpg)
 
 </center>
 
@@ -235,7 +235,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/filtroAgenda.jpg" alt="Diagrama de Filtros">
+![Diagrama de Aplicação de Filtro na Agenda](assets/diagrama_comunicacao/filtroAgenda.jpg)
 
 </center>
 
@@ -251,7 +251,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/enviarConvite.jpg" alt="Diagrama de Enviar Convite">
+![Diagrama de Enviar Convite](assets/diagrama_comunicacao/enviarConvite.jpg)
 
 </center>
 
@@ -267,7 +267,7 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 
 <center>
 
-<img src="assets/diagrama_comunicacao/configUsuario.jpg" alt="Diagrama de Alterar Configurações do Usuário">
+![Diagrama de Configuração do Usuário](assets/diagrama_comunicacao/configUsuario.jpg)
 
 </center>
 
