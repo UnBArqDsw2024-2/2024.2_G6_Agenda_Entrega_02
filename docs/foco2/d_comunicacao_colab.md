@@ -288,4 +288,3 @@ Abaixo estão os diagramas de comunicação criados, com suas respectivas legend
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 17/11/2024 | [João Barreto](https://github.com/JoaoBarreto03) |
 | `1.1` | 17/11/2024  | Explicação e construção dos Diagramas de Comunicação/Colaboração. | [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | | |
 | `1.2` | 25/11/2024  | Refatoração dos Diagramas de Comunicação/Colaboração. | [João Barreto](https://github.com/JoaoBarreto03), [Gabriel Souza](https://github.com/GabrielMS00), [Ricardo Augusto](https://github.com/avmricardo), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | | |
-
