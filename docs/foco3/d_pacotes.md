@@ -61,7 +61,15 @@ Eles desempenham um papel essencial em projetos de software, especialmente na mo
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Ricardo Augusto](https://github.com/avmricardo), 2024</p></font>
 
-[Link para o miro.](https://miro.com/app/board/uXjVLAbgimw=/)
+<p align="center" > <strong> Versão 2:</Strong> Diagrama de Pacotes - Agenda</font> <gitbr></p>
+
+<center>
+
+![Diagrama de pacotes versão 3](../foco3/assets/diagrama_v3.jpeg)
+
+</center>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Carlos Alves](https://github.com/CADU110), 2024</p></font>
 
 ## Breve explicação
 

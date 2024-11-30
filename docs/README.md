@@ -32,7 +32,7 @@ Uma agenda digital eficiente pode transformar a organização do dia a dia, prom
 
 ## Screenshots da Primeira Entrega
 
-[Screenshot](docs/Modelagem/screenshot.png)
+[Screenshot](./docs/Modelagem/screenshot.png)
 
 ## Há algo a ser executado?
 
