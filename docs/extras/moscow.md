@@ -1,8 +1,10 @@
-# Diagrama de Entidade e Relacionamento
+# MoSCoW
 
 ## Introdução
 
-(texto da introdução)
+A técnica MoSCoW foi utilizada para organizar e priorizar os requisitos do projeto, classificando-os em quatro categorias: Must Have (Essenciais), Should Have (Importantes), Could Have (Desejáveis) e Would Have (Não Prioritários). Essa metodologia permite identificar os elementos indispensáveis para o funcionamento do sistema, bem como aqueles que podem ser considerados em etapas futuras ou em condições específicas.
+
+A priorização considera critérios como impacto no produto, viabilidade técnica e alinhamento com os objetivos do projeto, garantindo que os requisitos mais relevantes sejam destacados e atendidos. Essa organização ajuda a orientar o planejamento, mantendo o foco nas funcionalidades principais enquanto oferece flexibilidade para o desenvolvimento de melhorias adicionais.
 
 ## Resultados
 
@@ -131,14 +133,6 @@
 |   RE-121    |    RF    | O sistema deve permitir a definição de prioridades para tarefas e eventos.   |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Carlos Alves](https://github.com/CADU110), [Hugo](https://github.com/melohugo),  [Bianca](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo), [João Barreto](https://github.com/JoaoBarreto03), [Julia](https://github.com/juhvitoria4), [Gabriel Moura](https://github.com/thegm445) , 2024</p></font>
-
-## Breve explicação
-
-(Explicação da metodologia e descrição do resultado obtido na tecnica)
-
-## Referências
-
-(link para as referências, livros, artigos, sites)
 
 ## Histórico de Versão
 
