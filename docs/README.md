@@ -32,20 +32,63 @@ Uma agenda digital eficiente pode transformar a organização do dia a dia, prom
 
 ## Screenshots da Primeira Entrega
 
-(adicionar)
+[Screenshot](docs/Modelagem/screenshot.png)
 
 ## Há algo a ser executado?
 
-( ) SIM
+( ) SIM 
 
-() NÃO
+(X) NÃO
 
 ## Sumário
 
-(adicionar)
+### [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
+
+#### [2.1. Modelagem UML Estática](./Modelagem/2.1.ModelagemEstatica.md)
+
+- [2.1.1. Diagrama de Classes](./foco1/d_classes.md)
+- [2.1.2. Diagrama de Componentes](./foco1/d_componentes.md)
+- [2.1.3. Diagrama de Implementação](./foco1/d_implementacao.md)
+
+#### [2.2. Modelagem UML Dinâmica](./Modelagem/2.2.ModelagemDinamica.md)
+
+- [2.2.1. Diagrama de Sequência](./foco2/d_sequencia.md)
+- [2.2.2. Diagrama de Atividades](./foco2/d_atividades.md)
+- [2.2.3. Diagrama de Comunicação/Colaboração](./foco2/d_comunicacao_colab.md)
+- [2.2.4. Diagrama de Estados](./foco2/d_estados.md)
+
+#### [2.3. Modelagem UML Organizacional ou Casos de Uso](./Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+
+- [2.3.1. Diagrama de Pacotes](./foco3/d_pacotes.md)
+- [2.3.2. Diagrama de Casos de Uso](./foco3/d_casos_uso.md)
+
+#### [2.4. Participações - Modelagem](./Modelagem/2.4.ParticipacoesModelagem.md)
+
+#### [2.5. Iniciativas Extras - Modelagem](./Modelagem/2.5.IniciativasExtras.md)
+
+- [2.5.1.1. Ata 06/11/2024](./extras/atas_reunioes/ata_06_11_2024.md)
+- [2.5.1.2. Ata 13/11/2024](./extras/atas_reunioes/ata_13_11_2024.md)
+- [2.5.1.3. Ata 20/11/2024](./extras/atas_reunioes/ata_20_11_2024.md)
+- [2.5.1.4. Ata 27/11/2024](./extras/atas_reunioes/ata_27_11_2024.md)
+- [2.5.2. Especificações de Caso de Uso](./extras/espec_caso_uso.md)
+- [2.5.3. MoSCoW](./extras/moscow.md)
+- [2.5.4. NFR Framework](./extras/nfr_framework.md)
+- [2.5.6.1. Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)
+- [2.5.6.2. É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)
+- [2.5.6.3. HMW](./extras/requisitos_elicitados/r_hmw.md)
+- [2.5.6.4. Personas](./extras/requisitos_elicitados/r_personas.md)
+- [2.5.6.5. Mapa de Jornada da Persona](./extras/requisitos_elicitados/r_mapa_jpersona.md)
+- [2.5.6.6. Mapa de Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)
+- [2.5.6.7. Design Principles](./extras/requisitos_elicitados/r_design_principles.md)
+- [2.5.6.8. Golden Path](./extras/requisitos_elicitados/r_path_golden.md)
+- [2.5.6.9. Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)
+- [2.5.6.10. Requisitos Elicitados](./extras/requisitos_elicitados/todos_requisitos.md)
+- [2.5.7.1. Modelo Conceitual](./extras/modelagem/conceitual.md)
+- [2.5.7.2. Modelo Lógico](./extras/modelagem/logico.md)
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 06/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 06/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 29/11/2023 | [Carlos Alves](https://github.com/CADU110) |
+| `1.0` | 29/11/2024  | Finalizando inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 29/11/2023 | [Carlos Alves](https://github.com/CADU110) |

@@ -21,5 +21,5 @@ As linhas entre os nós representam os relacionamentos, indicando se uma operaci
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
-| `1.1` | 29/11/2024  | Adiciona textos | [Gabriel Moura](https://github.com/thegm445) |  |  |
+| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 29/11/2024 |[Carlos Alves](https://github.com/CADU110)|
+| `1.1` | 29/11/2024  | Adiciona textos | [Gabriel Moura](https://github.com/thegm445) | 29/11/2024 |[Carlos Alves](https://github.com/CADU110)|
