@@ -1,7 +1,148 @@
 # Diagrama de Entidade e Relacionamento
 
+## Introdução
+
+(texto da introdução)
+
+## Resultados
+
+|   Identificador |    Tipo   |    Requisito    |  Origem    | Prioridade |
+|---------------|------|-----------|--------|-----------|
+|   RE-001    |    RF    | O sistema deve permitir que os usuários criem, editem e excluam eventos com datas e horários específicos. |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) | Must |
+|   RE-002    |    RF    | O sistema deve permitir a configuração e envio de notificações customizáveis para eventos e tarefas, com opções de escolha de canal (e-mail, aplicativo), tempo de antecedência e tipo de alerta (som, vibração), além de permitir a configuração de notificações de backup.  |  Should[Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) , [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md) , [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) , [Personas](./extras/requisitos_elicitados/r_personas.md)    | Should |
+|   RE-003    |    RF    | O sistema deve permitir que os usuários categorizem eventos e tarefas utilizando etiquetas personalizadas, com possibilidade de uso de cores para diferenciação visual.   |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md), [Personas](./extras/requisitos_elicitados/r_personas.md)    | Must
+|   RE-004    |    RF    | O sistema deve possibilitar o agendamento de eventos recorrentes, como reuniões semanais, sem a necessidade de recriá-los manualmente.    |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)    | Should |
+|   RE-005    |    RF    | O sistema deve permitir a integração com assistentes de voz, como Alexa, para facilitar a criação de eventos via comando de voz.  |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)  | Would |
+|   RE-006    |    RF    | O sistema deve permitir o compartilhamento de eventos e agendas com outros usuários, oferecendo opções de controle de permissões e envio de convites  |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Design Principles](./extras/requisitos_elicitados/r_design_principles.md), [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md), [Personas](./extras/requisitos_elicitados/r_personas.md)  | Must |
+|   RE-007    |    RF    | O sistema deve permitir a integração com outros aplicativos e serviços (ex: Google Calendar, Outlook Calendar, plataformas de e-mail e assistentes de voz), permitindo a sincronização de eventos e a automatização da adição de compromissos.    |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md), [Personas](./extras/requisitos_elicitados/r_personas.md)    | Could |
+|   RE-008    |    RF    | O sistema deve permitir que os usuários acessem a agenda em múltiplos dispositivos, como smartphones, tablets e computadores. |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) | Must |
+|   RE-009    |    RF    | O sistema deve permitir a visualização de compromissos por dia, semana e mês, proporcionando diferentes perspectivas de planejamento. |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) | Must | 
+|   RE-010    |    RF    | O sistema deve permitir a busca de eventos específicos por meio de uma barra de pesquisa. |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) | Must | 
+|   RE-011    |    RNF   | O sistema deve proteger os dados do usuário contra acesso não autorizado, garantindo a segurança da informação com criptografia robusta, autenticação de login e mecanismos de gerenciamento de permissões   |   [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Personas](./extras/requisitos_elicitados/r_personas.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)  | Must | 
+|   RE-012    |    RNF   | O sistema deve garantir uma resposta rápida nas operações de criação, edição e consulta de eventos, com tempo de resposta inferior a 2 segundos. |   [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) |  Should |
+|   RE-013    |    RNF   | O sistema deve armazenar um histórico dos eventos e compromissos por, no mínimo, 1 ano para consultas futuras.   |   [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)   | Must | 
+|   RE-014    |    RF    | O sistema deve prevenir a sobreposição de horários para evitar conflitos de eventos na mesma data e horário.  |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)  | Must | 
+|   RE-015    |    RF    | O sistema deve permitir a configuração de notificações de backup, caso uma notificação inicial não seja recebida pelo usuário.    |  [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)   | Could |
+|   RE-016    |    RNF   | O sistema deve permitir a recuperação de senha de forma segura e prática para o usuário. |   [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md) | Must | 
+|   RE-017    |    RNF   | O sistema deve ser compatível com APIs de outras ferramentas, como Trello e Google Calendar, para facilitar a sincronização de eventos.  |   [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md)  | Would |
+|   RE-018    |    RNF   | O sistema deve ter uma interface intuitiva e fácil de navegar, livre de elementos desnecessários.    |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)    |  Should |
+|   RE-019    |    RNF   | As informações essenciais (data, hora, título do evento) devem ter prioridade visual na interface.   |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)   | Must | 
+|   RE-020    |    RNF   | O sistema deve utilizar cores, tamanhos e espaçamento para guiar o usuário pelas informações mais importantes (hierarquia visual).   |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)    |  Should |
+|   RE-021    |    RF    | O sistema deve oferecer opções para personalizar a aparência da agenda (temas e cores).  |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)  | Would |
+|   RE-022   |    RF    | O sistema deve permitir configurar diferentes modos de visualização da agenda (dia, semana, mês).    |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)    | * |
+|   RE-023    |    RF    | O sistema deve permitir ao usuário exibir ou esconder informações na agenda. |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) |    Could |
+|   RE-024    |    RF    | O sistema deve permitir a integração com outras plataformas para otimizar o fluxo de trabalho.   |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)   | * |
+|   RE-025    |    RF    | O sistema deve ter uma interface amigável para criar, editar e remover eventos.  |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)  | * |
+|   RE-026    |    RNF   | O sistema deve ter uma interface intuitiva e de fácil uso, com navegação simples e clara, design visualmente atraente, elementos visuais coesos e uma hierarquia visual clara.   |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md), [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)  |  * |
+|   RE-027    |    RNF   | O sistema deve atender os padrões de acessibilidade WCAG para garantir a experiência de todos os usuários, incluindo aqueles com necessidades especiais (navegação por teclado, compatibilidade com leitores de tela, opções de contraste e tamanho de fonte ajustáveis).    |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md), [Personas](./extras/requisitos_elicitados/r_personas.md), [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md), [Brainstorming](./extras/requisitos_elicitados/r_brainstorming.md), [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md), [Golden Path](./extras/requisitos_elicitados/r_path_golden.md) | Could | 
+|   RE-028    |    RNF   | O sistema deve utilizar uma linguagem simples e fácil de entender, evitando termos técnicos.     |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)    | Must |
+|   RE-029    |    RNF   | O sistema deve ter uma interface visualmente agradável, transmitindo profissionalismo e modernidade. |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) | * |
+|   RE-030    |    RNF   | O sistema deve focar nos elementos essenciais, evitando sobrecarga visual (minimalismo).     |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md)    | * |
+|   RE-031    |    RNF   | O sistema deve ter um design responsivo que se ajuste automaticamente a diferentes tamanhos de tela. |   [Design Principles](./extras/requisitos_elicitados/r_design_principles.md) | Must |
+|   RE-032    |    RF    | O sistema deve ser um organizador de tarefas.    |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)   | Must | 
+|   RE-033    |    RF    | O sistema deve gerenciar compromissos.   |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)  | Must | 
+|   RE-034    |    RNF   | O sistema deve ser acessível em qualquer dispositivo.    |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)   | Must | 
+|   RE-035    |    RF    | O sistema deve ser uma ferramenta de organização.    |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)   | Must | 
+|   RE-036    |    RNF   | O sistema deve ser personalizável.   |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)  | Would |
+|   RE-037    |    RF    | O sistema deve convidar outras pessoas para compromissos.    |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)   | * | 
+|   RE-038    |    RF    | O sistema deve notificar os usuários.    |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)  | Must | 
+|   RE-039    |    RF    | O sistema deve possibilitar marcar compromissos e tarefas.   |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md) | * |
+|   RE-040    |    RF    | O sistema deve oferecer gestão de metas.     |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)   | Should | 
+|   RE-041    |    RF    | O sistema deve permitir a categorização.     |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md)   | * |
+|   RE-042    |    RF    | O sistema deve sincronizar com outros apps.  |   [É, não é, faz, não faz](./extras/requisitos_elicitados/r_e_ne_faz_nfaz.md) | * |
+|   RE-043    |    RF    | Fazer a agenda online mais intuitiva e fácil de usar, mesmo para usuários que não são familiarizados com ferramentas online. |   [HMW](./extras/requisitos_elicitados/r_hmw.md) | * |
+|   RE-044    |    RF    | Oferecer notificações personalizadas e eficazes que realmente lembrem os usuários de seus compromissos.  |   [HMW](./extras/requisitos_elicitados/r_hmw.md)  | * |
+|   RE-045    |    RF    | Oferecer ferramentas para a gestão de projetos com recursos para criação de listas de tarefas, definição de prazos, acompanhamento de progresso e colaboração em equipe. |   [HMW](./extras/requisitos_elicitados/r_hmw.md) | Should |
+|   RE-046    |    RF    | Utilizar a inteligência artificial para auxiliar os usuários na organização de suas tarefas, priorização de compromissos e agendamento de eventos.   |   [HMW](./extras/requisitos_elicitados/r_hmw.md)   | Would |
+|   RE-047    |    RF    | Criar um sistema de recompensas e incentivos para motivar os usuários a usar a agenda e alcançar seus objetivos. |   [HMW](./extras/requisitos_elicitados/r_hmw.md) | Could |
+|   RE-048    |    RF    | Permitir que os usuários compartilhem eventos e tarefas com outros usuários de forma simples e eficiente.    |   [HMW](./extras/requisitos_elicitados/r_hmw.md)   | Should |
+|   RE-049    |    RF    | Integrar a agenda com outras ferramentas, como Google Workspace, Teams e Trello, de forma simples e intuitiva.   |   [HMW](./extras/requisitos_elicitados/r_hmw.md)   | * |
+|   RE-050    |    RF    | Criar um sistema de análise de dados que permite os usuários identificar seus padrões de comportamento e otimizar a gestão do tempo. |   [HMW](./extras/requisitos_elicitados/r_hmw.md) | Could |
+|   RE-051    |    RF    | Criar uma experiência personalizada para cada usuário, adaptando a interface, as notificações e os recursos de acordo com suas necessidades e preferências.  |   [HMW](./extras/requisitos_elicitados/r_hmw.md)  | Would |
+|   RE-052    |    RF    | Criar um ambiente que motive os usuários a serem mais produtivos.    |   [HMW](./extras/requisitos_elicitados/r_hmw.md)    | Could |
+|   RE-053    |    RF    | O sistema deve permitir o cadastro de novos usuários e login via credenciais ou integração com conta Google. |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)   | Must |
+|   RE-054    |    RF    | O sistema deve permitir que o usuário customize as configurações de sua conta (Segurança e Acessibilidade).  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)    | Could |
+|   RE-055    |    RNF   | O sistema deve implementar autenticação robusta e configurações de segurança para proteger as informações do usuário.    |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)  | * |
+|   RE-056    |    RF    | O sistema deve exibir a data e hora atual, com opções de visualização por dia, semana e mês, incluindo feriados nacionais.   |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md) | Must |
+|   RE-057    |    RF    | O sistema deve permitir criar, ler, atualizar e excluir tarefas/compromissos.    |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)  | * | 
+|   RE-058    |    RF    | O sistema deve permitir que as tarefas/compromissos sejam personalizadas com informações como prioridade, prazo, data de vencimento, categoria e lembretes.  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)    | Must |
+|   RE-059    |    RF    | O sistema deve permitir marcar tarefas como concluídas.  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)   | Must |
+|   RE-060    |    RF    | O sistema deve permitir importar e exportar a agenda em diferentes formatos.     |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)  | Could |
+|   RE-061    |    RF    | O sistema deve permitir definir dependências entre tarefas, garantindo a execução na ordem correta.  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)    | * | 
+|   RE-062    |    RF    | O sistema deve permitir o convite de outros usuários para compartilhar agendas e participar de eventos.  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)    |
+|   RE-063    |    RF    | O sistema deve explorar a integração com Inteligência Artificial para funcionalidades como sugestões de tarefas, otimização de agenda, etc.  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)    |
+|   RE-064    |    RF    | O sistema deve permitir interação com assistentes por comandos de voz.   |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md) | * |
+|   RE-065    |    RF    | O sistema deve permitir uma visualização Kanban para gerenciamento de tarefas, permitindo a categorização e movimentação das tarefas entre diferentes estágios.  |   [Introspecção](./extras/requisitos_elicitados/r_introspeccao.md)    | * |
+|   RE-066    |    RF    | O sistema deve permitir a criação de uma conta e configuração de preferências iniciais.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | Must |
+|   RE-067    |    RF    | O sistema deve permitir adicionar, definir lembretes e consultar tarefas na agenda.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | * |
+|   RE-068    |    RF    | O sistema deve permitir planejar a semana, visualizar a agenda e gerenciar compromissos.     |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)  | Must |
+|   RE-069    |    RF    | O sistema deve permitir definir e gerenciar lembretes para tarefas importantes.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | * | 
+|   RE-070    |    RNF   | O sistema deve oferecer um tutorial interativo e dicas de personalização.    |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md) | Should |
+|   RE-071    |    RNF   | O sistema deve integrar com outros aplicativos e permitir visualização customizável. |      | * |
+|   RE-072    |    RNF   | O sistema deve oferecer diferentes opções de visualização (lista, calendário, etc.) e permitir arrastar e soltar tarefas.    |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)  | Should |
+|   RE-073    |    RNF   | O sistema deve integrar com outras plataformas de comunicação e oferecer opções de permissão de acesso.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | * |
+|   RE-074    |    RNF   | O sistema deve oferecer opções flexíveis de configuração de lembretes (repetições, horários personalizados, lembretes inteligentes, etc.).   |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md) | Could |
+|   RE-075    |    RNF   | O sistema deve facilitar a comparação entre diferentes opções de agenda. |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)   | Would |
+|   RE-076    |    RNF   | O sistema deve evitar excesso de informações ou opções na configuração inicial.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | Must |
+|   RE-077    |    RNF   | O sistema deve facilitar a visualização de tarefas de longo prazo e evitar notificações intrusivas.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | Should |
+|   RE-078    |    RNF   | O sistema deve facilitar a visualização da disponibilidade de tempo, oferecer flexibilidade para reagendar compromissos e informar a falta de compromissos.  |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)    | Should |
+|   RE-079    |    RNF   | O sistema deve simplificar o processo de compartilhamento, gerenciamento de permissões e evitar complexidade.    |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md) | Should |
+|   RE-080    |    RNF   | O sistema deve facilitar a configuração de lembretes personalizados, evitar excesso de notificações e garantir que os lembretes sejam acionados corretamente.    |   [Mapa Experiência](./extras/requisitos_elicitados/r_mapa_experiencia.md)  |  * |
+|   RE-081    |    RF    | O sistema deve permitir a associação de eventos a clientes específicos.  |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)  | Should |
+|   RE-082    |    RF    | O sistema deve oferecer diferentes modos de visualização da agenda (diária, semanal, mensal).    |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)    | * |
+|   RE-083    |    RF    | O sistema deve fornecer visualizações gráficas do uso do tempo.  |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)   | Must |
+|   RE-084    |    RF    | O sistema deve integrar-se com outros aplicativos de calendário (Google Calendar, Outlook, etc.).    |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) | * |
+|   RE-085    |    RF    | O sistema deve integrar-se com assistentes de voz.   |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)    | * |
+|   RE-086    |    RF    | O sistema deve permitir o cadastro de informações detalhadas sobre clientes. |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)  | Must |
+|   RE-087    |    RNF   | O sistema deve ter uma interface intuitiva e fácil de usar.  |   | * |
+|   RE-088    |    RNF   | O sistema deve fornecer feedback claro e imediato às ações do usuário.   |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)   | Must |
+|   RE-089    |    RNF   | O sistema deve ser rápido e responsivo, com tempos de carregamento mínimos.  |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md)  | * |
+|   RE-090    |    RNF   | O sistema deve ser capaz de lidar com grande volume de dados sem comprometer o desempenho.   |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) | Should |
+|   RE-091    |    RNF   | O sistema deve ser acessível em diferentes dispositivos (desktops, smartphones, tablets).    |   [Mapa jornada](./extras/requisitos_elicitados/r_mapa_jpersona.md) | * |
+|   RE-092    |    RF    | O sistema deve permitir que o usuário acesse a agenda online através de um navegador.    |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)    | Must |
+|   RE-093    |    RF    | O sistema deve exibir uma tela de login ao acessar a agenda online.  |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)  | Must |
+|   RE-094    |    RF    | O sistema deve permitir que o usuário insira suas credenciais (login e senha) na tela de login para autenticação.    |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)    | Must |
+|   RE-095    |    RF    | O sistema deve permitir que o usuário se cadastre caso não tenha uma conta, direcionando-o para uma tela de cadastro.    |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)    | Must  |
+|   RE-096    |    RF    | O sistema deve exibir uma tela de carregamento após o login e antes de acessar a plataforma. |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md) | Must |
+|   RE-097    |    RF    | O sistema deve exibir uma tela de calendário como página inicial após a autenticação bem-sucedida.   |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)   | Must |
+|   RE-098    |    RF    | O sistema deve permitir que o usuário selecione um dia específico no calendário para visualizar as atividades desse dia. |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md) | Must |
+|   RE-099    |    RF    | O sistema deve permitir que o usuário selecione opções de visualização no calendário, como "dia", "semana" ou "mês". |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md) | Must |
+|   RE-100    |    RF    | O sistema deve exibir uma tela detalhada das atividades ao selecionar um dia específico no calendário.   |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)   | Must |
+|   RE-101    |    RF    | O sistema deve permitir que o usuário acesse um "board específico" com as atividades do dia, organizadas conforme a seleção no calendário.   |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)   | Must |
+|   RE-102    |    RF    | O sistema deve permitir que o usuário crie ou edite tarefas diretamente na tela das atividades do dia.   |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)   | Must |
+|   RE-103    |    RF    | O sistema deve exibir uma tela de confirmação após a criação ou edição de uma tarefa para assegurar que a operação foi concluída com sucesso.    |   [Golden Path](./extras/requisitos_elicitados/r_path_golden.md)    | Must |
+|   RE-104    |    RF    | O sistema deve permitir a criação e edição de eventos e tarefas na agenda.   |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+|   RE-105    |    RF    | O sistema deve possibilitar a personalização das tarefas, como definir prioridades, prazos e datas de vencimento.    |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+|   RE-106    |    RF    | O sistema deve disponibilizar diferentes formatos de visualização da agenda (diário, semanal, mensal, anual).    |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+|   RE-107    |    RF    | O sistema deve oferecer filtros e buscas avançadas para encontrar eventos e tarefas específicos. |   [Personas](./extras/requisitos_elicitados/r_personas.md)   | * |
+|   RE-108    |    RF    | O sistema deve permitir a criação de lembretes personalizados para eventos e tarefas.    |   [Personas](./extras/requisitos_elicitados/r_personas.md)  | * |
+|   RE-108    |    RF    | O sistema deve permitir a categorização das tarefas e eventos.   |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+|   RE-110    |    RF    | O sistema deve permitir o envio de convites para outros usuários participarem de eventos.    |   [Personas](./extras/requisitos_elicitados/r_personas.md)  | * |
+|   RE-111    |    RF    | O sistema deve sincronizar a agenda com outros calendários externos, como Google Calendar e Outlook Calendar.    |   [Personas](./extras/requisitos_elicitados/r_personas.md)  | * |
+|   RE-112    |    RF    | O sistema deve permitir a definição de dependências entre tarefas, assegurando a realização na ordem correta.    |   [Personas](./extras/requisitos_elicitados/r_personas.md) | Must |
+|   RE-113    |    RF    | O sistema deve incluir feriados nacionais para facilitar a organização da agenda.    |   [Personas](./extras/requisitos_elicitados/r_personas.md)  | * |
+|   RE-114    |    RF    | O sistema deve notificar os usuários sobre eventos e tarefas importantes.    |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+|   RE-115    |    RF    | O sistema deve permitir a criação de um Kanban ou to-do list das tarefas diárias.    |   [Personas](./extras/requisitos_elicitados/r_personas.md)  | * |
+|   RE-116    |    RF    | O sistema deve permitir a integração com assistentes de voz para facilitar a interação.  |   [Personas](./extras/requisitos_elicitados/r_personas.md)   | * |
+|   RE-117    |    RF    | O sistema deve permitir a edição de informações sobre o caso, incluindo dados sobre o cliente, como endereço, telefone e preferências.   |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+|   RE-118    |    RF    | O sistema deve permitir o compartilhamento do cronograma com a equipe.   |   [Personas](./extras/requisitos_elicitados/r_personas.md)    | Must |
+|   RE-119    |    RF    | O sistema deve permitir a criação de eventos e tarefas com links para outros aplicativos.    |   [Personas](./extras/requisitos_elicitados/r_personas.md)  | Should |
+|   RE-120    |    RF    | O sistema deve permitir a edição de eventos e tarefas com links para outros aplicativos. |   [Personas](./extras/requisitos_elicitados/r_personas.md)   | * |
+|   RE-121    |    RF    | O sistema deve permitir a definição de prioridades para tarefas e eventos.   |   [Personas](./extras/requisitos_elicitados/r_personas.md) | * |
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Carlos Alves](https://github.com/CADU110), [Hugo](https://github.com/melohugo),  [Bianca](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo), [João Barreto](https://github.com/JoaoBarreto03), [Julia](https://github.com/juhvitoria4), [Gabriel Moura](https://github.com/thegm445) , 2024</p></font>
+
+## Breve explicação
+
+(Explicação da metodologia e descrição do resultado obtido na tecnica)
+
+## Referências
+
+(link para as referências, livros, artigos, sites)
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 29/11/2024 |[Bianca](https://github.com/BiancaPatrocinio7) |
+| `1.1` | 29/11/2024  | Adicionanod tabela inicial de Moscow. | [Carlos Alves](https://github.com/CADU110), [Hugo](https://github.com/melohugo),  [Bianca](https://github.com/BiancaPatrocinio7), [Vitor Feijó](https://github.com/vitorfleonardo), [João Barreto](https://github.com/JoaoBarreto03), [Julia](https://github.com/juhvitoria4), [Gabriel Moura](https://github.com/thegm445) | 29/11/2024 |[Bianca](https://github.com/BiancaPatrocinio7) |
