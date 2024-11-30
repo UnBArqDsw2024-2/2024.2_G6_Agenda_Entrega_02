@@ -32,7 +32,9 @@ Uma agenda digital eficiente pode transformar a organização do dia a dia, prom
 
 ## Screenshots da Primeira Entrega
 
-![Screenshot](https://github.com/UnBArqDsw2024-2/2024.2_G6_Agenda_Entrega_02/blob/main/docs/Modelagem/screenshot.png)
+<div style="text-align: center;">
+    <img src="./Modelagem/screenshot.png"  width="1450px">
+</div>
 
 ## Há algo a ser executado?
 
