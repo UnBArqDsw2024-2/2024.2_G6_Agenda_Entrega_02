@@ -74,4 +74,4 @@ Em resumo, o diagrama apresenta uma arquitetura típica de aplicação web em ca
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 13/11/2024  | [Yago Passos](https://github.com/yagompassos)  |
 | `1.1` | 13/11/2024  | Introdução e início do desenvolvimento do diagrama. | [Yago Passos](https://github.com/yagompassos)  |   |   |
 | `1.2` | 13/11/2024  | Implementando versão 02. | [Carlos Alves](https://github.com/CADU110), [Vitor Feijó](https://github.com/vitorfleonardo) e  [Gabriel Moura Dos Santos](https://github.com/thegm445) | 25/11/2024  |  [Yago Passos](https://github.com/yagompassos)  |
-| `1.3` | 25/11/2024  | Padronização. | [Yago Passos](https://github.com/yagompassos)  |   |   |
+| `1.3` | 25/11/2024  | Padronização. | [Yago Passos](https://github.com/yagompassos)  | 29/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) | 

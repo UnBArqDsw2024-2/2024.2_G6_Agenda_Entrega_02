@@ -60,6 +60,6 @@ Os símbolos utilizados em um diagrama de atividades, como o apresentado, possue
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) |  |  |
+| `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 19/11/2024 | [Hugo Queiroz](https://github.com/melohugo) | 
 | `1.1` | 18/11/2024 | Criação da Introdução e Explicação do Diagrama. | [Gabriel Moura](https://github.com/thegm445) | 20/11/2024 | [Hugo Queiroz](https://github.com/melohugo) |
-| `1.2` | 20/11/2024 | Adicionando versão 2 do diagrama. | [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo) |  | |
+| `1.2` | 20/11/2024 | Adicionando versão 2 do diagrama. | [Carlos Eduardo](https://github.com/CADU110) e [Hugo Queiroz](https://github.com/melohugo) | 29/11/2024 | [Vitor Feijó](https://github.com/vitorfleonardo) | 
