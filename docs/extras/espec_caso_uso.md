@@ -174,4 +174,4 @@ Os casos de uso descritos fornecem uma visão clara das funcionalidades principa
 | `1.0` | 09/11/2024  | Versão inicial do artefato. | [Vitor Feijó](https://github.com/vitorfleonardo) | 24/11/2024 |  [Bianca](https://github.com/BiancaPatrocinio7) |
 | `1.1` | 24/11/2024  | Introdução e alguns casos de uso. | [Bianca](https://github.com/BiancaPatrocinio7) | 25/11/2024 |[Paulo Borba](https://github.com/paulohborba) |
 | `1.2` | 25/11/2024  | Adicionando caso de uso: buscar eventos. | [Paulo Borba](https://github.com/paulohborba) | 27/11/2024 | [Johnny Lopes](https://github.com/JohnnyLopess)|
-| `1.3` | 28/11/2024  | Adicionando caso de uso: Personalizar perfil. | [Johnny Lopes](https://github.com/JohnnyLopess) | 00/00/2024 | |
+| `1.3` | 28/11/2024  | Adicionando caso de uso: Personalizar perfil. | [Johnny Lopes](https://github.com/JohnnyLopess) | 29/11/2024 |[Carlos Alves](https://github.com/CADU110)|

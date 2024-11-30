@@ -30,7 +30,7 @@ O **diagrama de implantação** é um diagrama de estrutura que mostra a arquite
 
 A modelagem proposta para a solução da Agenda foi a seguinte, exposta na imagem 1:
 
-![Diagrama de Implementação versão 02](DiagramaImplementaçãoV2.jpg)
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLMdmrUk=/?moveToViewport=-440,519,2226,1061&embedId=506143212320" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Imagem 1. Diagrama de implementação. Autor(es):</b>  [Carlos Alves](https://github.com/CADU110), [Vitor Feijó](https://github.com/vitorfleonardo), [Gabriel Moura Dos Santos](https://github.com/thegm445) e [Yago Passos](https://github.com/yagompassos), 2024.</p></font>
 
