@@ -1,21 +1,5 @@
 # Diagrama de Entidade e Relacionamento
 
-## Introdução
-
-(texto da introdução)
-
-## Resultados
-
-(Resultado da tecnica com legendas)
-
-## Breve explicação
-
-(Explicação da metodologia e descrição do resultado obtido na tecnica)
-
-## Referências
-
-(link para as referências, livros, artigos, sites)
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
